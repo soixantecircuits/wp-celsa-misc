@@ -1,0 +1,395 @@
+{
+	"promo": "Misc 2010",
+	"liste":[
+		{
+			
+			"name": "ADOUANI",
+			"firstname":"Sonia",
+			"image":"adouanisonia_2010.jpg",
+			"resume_title":"Les évolutions du blogging",
+			"interests":["transmedia",
+				     "community management",
+				     "storytelling"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/zerchick"},
+			 	{"name":"Viadeo",
+				  "url":"http://www.viadeo.com/fr/profile/sonia.adouani1"},
+				{"name":"Facebook",
+				"url":"http://www.facebook.com/sonia.adouani"}
+				]
+		},
+		{
+			
+			"name": "AQUIEN",
+			"firstname":"Judith",
+			"image":"aquienjudith_2010.jpg",
+			"resume_title":"La mise en liste du Moi à l'écran",
+			"interests":["littérature",
+				     "gastronomie",
+				     "dessin"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				  "url":"http://fr.linkedin.com/pub/judith-aquien/b/a85/70"}
+				]
+		},
+		{
+			
+			"name": "BABEANU",
+			"firstname":"Victor",
+			"image":"victor_2010.jpg",
+			"resume_title":"Les widgets: redéfinir l'entrée sur l'internet",
+			"interests":["innovation",
+				     "spirtualité"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/jeanvictorb"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/jean-victor-babeanu/17/597/650"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/JVBAB"}
+				]
+		},
+		{
+			
+			"name": "BÉZARD",
+			"firstname":"Charles",
+			"image":"bezardcharles_2010.jpg",
+			"resume_title":"Les fans et les pages de fans Facebook",
+			"interests":["média",
+				     "entertainment",
+				     "e-business"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/CharlesBe"}
+				]
+		},
+		{
+			
+			"name": "CHORON",
+			"firstname":"Johann",
+			"image":"choronjohann_2010.jpg",
+			"resume_title":"Les discours d'accompagnement de Twitter lors de la crise iraquienne",
+			"interests":["usages",
+				     "jeux vidéo",
+				     "news"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/juancarlosdila"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/johann-choron/b/2b2/5aa"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/jchoron"}
+				]
+		},
+		{
+			
+			"name": "DANET",
+			"firstname":"Nicolas",
+			"image":"danetnicolas_2010.jpg",
+			"resume_title":"Le commentaire de l'information",
+			"interests":["communication responsable",
+				     "culture web",
+				     "musique électro"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/NTenad"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/nicolas-danet/17/a11/393"}
+				]
+		},
+		{
+			
+			"name": "DE SOUZA",
+			"firstname":"Aurore",
+			"image":"aurore_2010.jpg",
+			"resume_title":"Fansubbing et séries télévisées : de la réappropriation à la légitimation culturelle",
+			"interests":["mobile",
+				     "ergonomie",
+				     "innovation"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/auroredsd"},
+				 {"name":"Viadeo",
+				 "url":"http://www.viadeo.com/fr/profile/aurore.de-souza-dias"}
+				]
+		},
+		{
+			
+			"name": "DOUAY",
+			"firstname":"Aurélien",
+			"image":"douayaurelien_2010.jpg",
+			"resume_title":"Applications et web mobile",
+			"interests":["sérendipité",
+				     "planning stratégique"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/adouay"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/aureliend"}
+				]
+		},
+    	{
+			
+			"name": "DUHIL",
+			"firstname":"Simon",
+			"image":"duhilsimon_2010.jpg",
+			"resume_title":"Réalité augmentée",
+			"interests":["webmarketing",
+				     "webstrategy","webcreation"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://twitter.com/simonduhil"},
+				 {"name":"LinkedIn",
+				 "url":"http://www.linkedin.com/in/simonduhil"},
+         {"name":"Facebook",
+				 "url":"http://fr-fr.facebook.com/simon.duhil"},
+         {"name":"Viadeo",
+				 "url":"http://www.viadeo.com/fr/profile/simon.duhil"}
+				
+        ]
+		},
+		{
+			
+			"name": "ELMRABET",
+			"firstname":"Nadia",
+			"image":"elmrabetnadia_2010.jpg",
+			"resume_title":" Jeux en réalité alternée (ARGs): des cadres et des boîtes, formes relationnelles de l'immersion et genre narratif numérique",
+			"interests":["transmedia",
+				     "storytelling",
+				     "digital culture"],
+			"blog":"http://weirdmedia.tumblr.com/",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/zewiskas"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/nadia-elmrabet/27/4aa/931"}
+				]
+		},
+		{
+			
+			"name": "LE GAL",
+			"firstname":"Erwan",
+			"image":"legalerwan_2010.jpg",
+			"resume_title":"Y-a-t-il une fachosphère? La communication politique de l'extrême droite sur le web",
+			"interests":["netpolitique",
+				     "musiques électroniques",
+				     "littérature"],
+			"blog":"http://toop.tumblr.com/",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/tooptoop"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/erwanlegal"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/erwanlegal"}
+				]
+		},
+		{
+			
+			"name": "MAACHA",
+			"firstname":"Elise",
+			"image":"elise_2010.jpg",
+			"resume_title":"Perception sociale de la veille d'opinion en ligne",
+			"interests":["littérature",
+				     "cinéma",
+				     "musique"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/maskedduck"},
+				 {"name":"LinkedIn",
+				 "url":" http://fr.linkedin.com/in/elisemaacha"}
+				]
+		},
+		{
+			"name": "MOREAU",
+			"firstname":"Nicolas",
+			"image":"moreaunicolas_2010.jpg",
+			"resume_title":"Les mèmes internet : de 4chan aux agences de communication",
+			"interests":["rock and roll",
+				     "technologies",
+				     "lecture"],
+			"blog":"http://whateverhappenedtornr.blogspot.com/",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/Nico_dude"},
+				{"name":"LinkedIn",
+				  "url":"http://fr.linkedin.com/pub/nicolas-moreau/1a/358/832"},
+				{"name":"Facebook",
+				"url":"http://www.facebook.com/nicolas.moreau3"},
+				{"name":"Delicious",
+				 "url":"http://www.delicious.com/nico_dude"}]
+		},
+		{
+			
+			"name": "MOUY",
+			"firstname":"Jean-Aria",
+			"image":"mouyjeanaria_2010.jpg",
+			"resume_title":"Brand content comme outil d'animation des réseaux sociaux",
+			"interests":["audiovisuel",
+				     "participation",
+				     "viralité"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/jean-aria-mouy/8/1bb/6a1"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/profile.php?id=614665911"}
+				]
+		},
+		{
+			"name": "NLEND NLEND",
+			"firstname":"Estelle",
+			"image":"default-user.jpg",
+			"resume_title":"La représentation virtualisée de l'imaginaire de la table",
+			"interests":["cinéma",
+				     "art africain et surréalisme",
+				     "Pennac"],
+			"blog":"http://synospis.blogspot.com/",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/#!/tweettellesty"},
+				{"name":"LinkedIn",
+				  "url":"http://fr.linkedin.com/pub/estelle-nlend-nlend/28/58b/aa4"},
+				{"name":"Facebook",
+				"url":"http://www.facebook.com/mobile/?ref=sb#!/profile.php?id=100000369766536"}
+				]
+		},
+		{
+			"name": "PASQUET",
+			"firstname":"Agnès",
+			"image":"agnes_2010.jpg",
+			"resume_title":"Individualisation de l’expérience de consommation et personnalisation des biens et services sur Internet",
+			"interests":["web",
+				     "lolcats",
+				     "balkan music"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/agneska24"},
+				{"name":"LinkedIn",
+				  "url":"http://fr.linkedin.com/in/agnespasquet"}
+				]
+		},
+		{
+			
+			"name": "PETRUCCI",
+			"firstname":"Paula",
+			"image":"petruccipaula_2010.jpg",
+			"resume_title":"Les marques de luxe et les campagnes web 2.0",
+			"interests":["photographie",
+				     "arts",
+				     "digital"],
+			"blog":"",
+			"social":[
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/paulapetrucci"}
+				]
+		},
+		{
+			
+			"name": "ROQUEFORT",
+			"firstname":"Christophe",
+			"image":"roquefortchristophe_2010.jpg",
+			"resume_title":"Mobile is the message",
+			"interests":["catamaran de sport FX-one"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/croquefort"}
+				]
+		},
+		{
+			
+			"name": "SOUBRIER",
+			"firstname":"Antoine",
+			"image":"soubrierantoine_2010.jpg",
+			"resume_title":"La prescription musicale et des niches culturelles sur Internet",
+			"interests":["amour",
+				     "gloire",
+				     "beauté"],
+			"blog":"http://flavors.me/toinan",
+			"social":[
+				{"name":"Facebook",
+				 "url":"http://www.facebook.com/antoinesoubrier "}
+				]
+		},
+		{
+			"name": "VAUTE",
+			"firstname":"Vianney",
+			"image":"default-user.jpg",
+			"resume_title":"De la médiagénie à la médiagenèse",
+			"interests":["web culture",
+				     "planning stratégique",
+				     "littérature"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/vinnyvandev"}
+				]
+		},
+		{
+			
+			"name": "WAIT",
+			"firstname":"Juliette",
+			"image":"waitjuliette_2010.jpg",
+			"resume_title":"e-philantropie, média sociaux et fundrasing",
+			"interests":["cuisine",
+				     "cinéma",
+				     "voyage"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/juliettewait"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/mllejuliet"}
+				]
+		},
+		{
+			
+			"name": "WEHRUNG",
+			"firstname":"Claire",
+			"image":"wehrungclaire_2010.jpg",
+			"resume_title":"Quel contrat de lecture pour l'information décontextualisée, fragmentée et mise en circulation sur les réseaux sociaux ?",
+			"interests":["sociologie",
+				     "communication éditoriale",
+				     "journalisme"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/ClrWhrg"}
+				]
+		},
+		{
+			
+			"name": "ZURFLUH",
+			"firstname":"Matthieu",
+			"image":"zurfluhmatthieu_2010.jpg",
+			"resume_title":"Les jeux vidéo en entreprise",
+			"interests":["Network",
+				     "social",
+				     "technologie"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/matthieuzurfluh"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/matthieuzurfluh"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/matthieu.zurfluh"}
+				]
+		}
+
+	]
+	
+}

@@ -1,0 +1,213 @@
+/********************************************************************************************************/
+/************************************** GREG ***********************************************************/
+
+.promo{
+  margin:0px 10px;
+}
+
+ul.student_lst{
+  list-style:none;
+  padding:10px;     
+}
+
+li.student {
+border-bottom: 1px solid #ccc;
+height: 94px;
+min-height: 94px;
+padding: 8px 0px 0px;
+position: relative;
+}
+
+img.photo{
+  height:84px;
+  width:80px;
+  border:1px solid #ccc;
+}
+
+.photo{
+  float:left;
+  margin:0px 10px 0px 0px;  
+  position:relative;
+}
+.promo_legend{
+  position:absolute;
+  bottom:0px;
+  background:#2E2D2D;
+  font-weight:bold;
+  width:76px;
+  height:16px;
+  color:#FFF;
+  opacity : 0.8; 
+  -moz-opacity : 0.8; 
+  -ms-filter: "alpha(opacity=80)"; /* IE 8 */ 
+  filter : alpha(opacity=80); /* IE < 8 */ 
+  padding:2px 3px;
+  margin:0px;
+}
+
+.infosStudent{
+  height:100%;
+  float:left;
+  margin:0px 10px 0px;
+  font-size:0.85em;
+}
+
+.meta_student{
+  height:100%;
+  left: 290px;
+  position:absolute;
+  margin:0px 0px 0px 10px;
+  width: 224px;
+  font-size:0.85em;
+  text-align:left;
+}
+
+.infosStudent h3{
+  display:block;
+  height:33px;
+  text-align:left;  
+}
+
+.meta_student h3{
+  font-weight:bold;
+  display:inline;
+  color:#000000;
+  clear:left;  
+}
+
+.block_blog{
+  padding-top:8px;
+}
+
+a.blog{
+  display:block;
+  height:15px;
+  text-align:left;
+}
+
+img.blog{
+  width:28px;
+  height:28px;
+  display:inline;
+  padding:0px 4px 0px 0px;
+  float:left;
+
+}
+
+ul#promos_misc{
+  list-style:none;
+  float:left;
+  padding-top:95px;
+  display:block;
+}
+#promos_misc li{
+margin-bottom: 10px;
+}
+
+#promos_misc a{
+  border: none;
+  padding: 4px 10px 4px 6px;
+  background:#16296d;
+  color:#fff;
+  display:block;
+}
+
+#promos_misc a.current{
+  border-left: 1px solid #dddddd;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  padding: 4px 14px 4px 6px;
+  background:#fff;
+  color:#000;
+  display:block;
+  z-index:10;
+  cursor:default;
+}
+
+#promos_misc a.current:hover{
+  text-decoration:none;
+  background:#fff;
+}
+
+
+
+
+#promos_misc a{
+  text-decoration:none;
+  color:#FFF;
+}
+
+.meta_student span,p{
+  display:inline;
+}
+
+.panes{
+  width:590px;
+  float:left;
+  border:1px solid #dddddd;
+  background:#fff;
+  height:620px;
+  overflow-y:auto;
+  overflow-x:none;
+}
+
+#annuaire{
+  background:#fff;
+  display: block;
+  margin: 0px  0px;
+  width:700px;
+  height:640px;
+  padding:10px;
+  filter:alpha(opacity=0); 
+  opacity:0; 
+  -moz-opacity:0; 
+  display:none;
+}
+
+header{
+  margin-bottom:20px;
+  margin-left:30px;
+}
+
+#promos_misc a:hover{
+  background:#2B81AF;
+}
+
+#chargement{
+  background:#fff;
+  display: block;
+  margin: 100px 30px;
+  width:660px;
+  height:300px;
+  padding:auto;
+  text-align:center;
+}
+
+#chargement img{
+  user-select:none;
+  -moz-user-select: none;
+  clear:both;
+}
+
+
+.search{
+  float:left;
+  display: block;
+position:absolute;
+padding-top: 30px; 
+}
+
+.search fieldset {
+border:none;
+}
+
+.search label{
+clear: both;
+display: block;
+float: left;
+}
+#target{
+clear: both;
+display: block;
+width: 70px;
+}

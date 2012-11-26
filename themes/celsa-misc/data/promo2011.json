@@ -1,0 +1,577 @@
+{
+    "promo": "Misc 2011",
+    "liste": [
+        {
+            "name": "ABECASSIS",
+            "firstname": "Estelle",
+            "image": "abecassisestelle_2011.jpg",
+            "resume_title": "J’y suis donc je suis : étude des usages des réseaux sociaux géolocalisés",
+            "interests": [
+                "littérature",
+                "nouvelles technologies",
+                "séries TV"
+            ], 
+            "blog": "",
+			"social": [ 
+				{
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Estelle_abk6" 
+	                }
+            ]
+        },
+        {
+            "name": "ANSSELIN",
+            "firstname": "Alice",
+            "image": "ansselinalice_2011.jpg",
+            "resume_title": "Internet sur la Télévision - en cours",
+            "interests": [
+                "flans",
+                "diadème",
+                "robots" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/alisses" 
+                } 
+            ] 
+        },
+        {
+            "name": "ARNOLD",
+            "firstname": "Laetitia",
+            "image": "arnoldlaetitia_2011.jpg",
+            "resume_title": "Cloud computing - en cours",
+            "interests": [
+                "Internet",
+                "littérature",
+                "monde anglophone" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/laetitiaarnold" 
+                }
+            ] 
+        },
+        {
+            "name": "BAYLE",
+            "firstname": "Flore",
+            "image": "default-user.jpg",
+            "resume_title": "Les discours autour du vin sur Internet- en cours",
+            "interests": [
+                "ballet",
+                "cinéma italien",
+                "voyages" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/flobyle" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/flore-bayle/29/69/122" 
+                } 
+            ] 
+        },
+        {
+            "name": "BENHAMOU",
+            "firstname": "Nathan",
+            "image": "default-user.jpg",
+            "resume_title": "Media-monitoring et e-reputation- en cours",
+            "interests": [
+                "musique",
+                "graphisme",
+                "web analytics" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/thisnathan" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/nathan-benhamou/25/834/410" 
+                } 
+            ] 
+        },
+        {
+            "name": "BIGOT",
+            "firstname": "Jean-Édouard",
+            "image": "bigotjeanedouard_2011.jpg",
+            "resume_title": "De la carte à la cybercarte - en cours",
+            "interests": [
+                "musique",
+                "sémiologie",
+                "voyages" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Jeb_CMM" 
+                } 
+            ] 
+        },
+        {
+            "name": "BONNAUD-LEROUX",
+            "firstname": "Sophie",
+            "image": "default-user.jpg",
+            "resume_title": "Nouveaux médias et évolution de la vulgarisation des connaissances - en cours",
+            "interests": [
+                "musées virtuels",
+                "sociologie",
+                "histoire des médias",
+                "Noosphère" 
+            ],
+            "blog": "",
+        	"social": [ 
+            ]
+        },
+        {
+            "name": "BOURGAIN",
+            "firstname": "Baptiste",
+            "image": "bourgainbaptise_2011.jpg",
+            "resume_title": "Les mutations de la bande dessinée face aux nouveaux médias",
+            "interests": [
+                "culture urbaine",
+                "design",
+                "musique" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/baptisteversa" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/baptiste-bourgain/27/b07/ab4" 
+                },
+                {
+                    "name": "Facebook",
+                    "url": "http://www.facebook.com/BaptisteVersa" 
+                } 
+            ] 
+        },
+        {
+            "name": "CAHEN",
+            "firstname": "Damien",
+            "image": "cahendamien_2011.jpg",
+            "resume_title": "Les crédits Facebook : business models et représentations de l'argent sur internet - en cours",
+            "interests": [
+                "social media",
+                "théâtre",
+                "the wire" 
+            ],
+            "blog": "http://www.gbuzzy.com/",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/DamGC" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/in/cahendamien" 
+                },
+                {
+                    "name": "Facebook",
+                    "url": "http://www.facebook.com/home.php#!/profile.php?id=100001865299953" 
+                },
+                {
+                    "name": "Delicious",
+                    "url": "http://www.delicious.com/damien.cahen" 
+                } 
+            ] 
+        },
+        {
+            "name": "CALMÉ",
+            "firstname": "Laurent",
+            "image": "calmelaurent_2011.jpg",
+            "resume_title": "Les imaginaires du crowdfunding - en cours",
+            "interests": [
+                "innovations technologiques",
+                "photographie",
+                "littérature" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Laurent__C" 
+                },
+                {
+                    "name": "Viadeo",
+                    "url": "http://www.viadeo.com/fr/profile/laurent.calme" 
+                } 
+            ] 
+        },
+        {
+            "name": "CHELLAH",
+            "firstname": "Yann",
+            "image": "default-user.jpg",
+            "resume_title": "Créer et représenter le sens sur iPhone. Le cas de la géolocalisation.",
+            "interests": [
+                "médias mobiles",
+                "jeux vidéo",
+                "stratégies digitales de marques" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/ychellah" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://www.linkedin.com/in/yannchellah" 
+                } 
+            ] 
+        },
+        {
+            "name": "FRANGI",
+            "firstname": "Laura",
+            "image": "frangilaura_2011.jpg",
+            "resume_title": "Scan me... if you can. Une approche critique de l'émergence des codes 2D en France.",
+            "interests": [
+                "geekeries",
+                "trucs de fille",
+                "lifestyle" 
+            ],
+            "blog": "http://lafrange.wordpress.com/",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/lafrange" 
+                },
+                {
+                    "name": "Viadeo",
+                    "url": "http://www.viadeo.com/fr/profile/laura.frangi2" 
+                },
+                {
+                    "name": "Delicious",
+                    "url": "http://www.delicious.com/laura.frangi" 
+                } 
+            ] 
+        },
+        {
+            "name": "GOETA",
+            "firstname": "Samuel",
+            "image": "goetasamuel_2011.jpg",
+            "resume_title": "Open data : qu'ouvre-t-on avec les données publiques ?",
+            "interests": [
+                "netneutrality",
+                "social media",
+                "netpolitique" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/samgoeta" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://www.linkedin.com/in/samuelgoeta" 
+                },
+                {
+                    "name": "Facebook",
+                    "url": "http://www.facebook.com/samgoeta" 
+                },
+                {
+                    "name": "Delicious",
+                    "url": "http://www.delicious.com/samgoeta" 
+                } 
+            ] 
+        },
+        {
+            "name": "GRIGNON",
+            "firstname": "Thomas",
+            "image": "grignonthomas_2011.jpg",
+            "resume_title": "Idéologie, technique et légitimation : l'écriture de lapratique sociale du « consultant digital »",
+            "interests": [
+                "Internet",
+                "sémiotique",
+                "imaginaire" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Swiffer_" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/thomas-grignon/28/15b/400" 
+                } 
+            ] 
+        },
+        {
+            "name": "GUELTON",
+            "firstname": "Nora",
+            "image": "default-user.jpg",
+            "resume_title": "Les Fabrication Laboratories - en cours",
+            "interests": [
+                "cinéma",
+                "réseaux",
+                "voyages" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/nora-guelton/27/726/344" 
+                } 
+            ] 
+        },
+        {
+            "name": "GUILLEMANÉ",
+            "firstname": "Anaïs",
+            "image": "anais_2011.jpg",
+            "resume_title": "Mythes de la mobilisation des communautés Internet par les marques - en cours",
+            "interests": [
+                "photographie",
+                "basket",
+                "the lulz" 
+            ],
+            "blog": "http://flavors.me/mssiana",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/mssiana" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/in/anaisguillemane" 
+                } 
+            ] 
+        },
+        {
+            "name": "HUTCHINGS",
+            "firstname": "Kevin",
+            "image": "hutchingskevin_2011.jpg",
+            "resume_title": "La ville intelligente - en cours",
+            "interests": [
+                "publicité",
+                "nouveaux supports de communication",
+                "musique live" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/savvytweet" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://www.linkedin.com/pub/kevin-hutchings/13/815/16a" 
+                },
+                {
+                    "name": "Delicious",
+                    "url": "http://www.delicious.com/kevhutch" 
+                } 
+            ] 
+        },
+        {
+            "name": "JOUBERT",
+            "firstname": "Marie-Sophie",
+            "image": "default-user.jpg",
+            "resume_title": "Vers la naissance d'une nouveau genre de la presse féminine online - le cas de be.com",
+            "interests": [
+                "journalisme",
+                "cheeseburger" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/in/msjoubert" 
+                } 
+            ] 
+        },
+        {
+            "name": "LADVIE",
+            "firstname": "Guillaume",
+            "image": "ladvieguillaume_2011.jpg",
+            "resume_title": "Google, de l'idéologie de la bienveillance à la gouvernementalité algorythmique.",
+            "interests": [
+                "folklore digital",
+                "story telling",
+                "langage" 
+            ],
+            "blog": "http://www.gbuzzy.com/",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/GLadvie" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/in/guillaumeladvie" 
+                },
+                {
+                    "name": "Facebook",
+                    "url": "http://www.facebook.com/guillaume.ladvie" 
+                } 
+            ] 
+        },
+        {
+            "name": "MASSAIN",
+            "firstname": "Magali",
+            "image": "massainmagali_2011.jpg",
+            "resume_title": "Des objets à l'Objet art numérique : quelles médiations, quelles représentations, un monde ?",
+            "interests": [
+                "théâtre",
+                "cinéma",
+                "social media" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Magali_M" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/magali-massain/26/a9a/306" 
+                } 
+            ] 
+        },
+        {
+            "name": "MOOTOOSAMY",
+            "firstname": "Edwin",
+            "image": "mootoosamyedwin_2011.jpg",
+            "resume_title": "Représentation de l'expertise sur Internet - en cours",
+            "interests": [
+                "entrepreunariat",
+                "innovation",
+                "mutation sociale" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Moodeo" 
+                },
+                {
+                    "name": "Viadeo",
+                    "url": "http://www.viadeo.com/fr/profile/edwin.mootoosamy" 
+                },
+                {
+                    "name": "Facebook",
+                    "url": "http://www.facebook.com/moodeo" 
+                } 
+            ] 
+        },
+        {
+            "name": "ORAIN",
+            "firstname": "Juliette",
+            "image": "juliette_2011.jpg",
+            "resume_title": "Les discours dysphoriques sur l'identité numérique",
+            "interests": [
+                "littérature",
+                "cinéma",
+                "San Francisco" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/Juliette_O" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/juliette-orain/10/64/B6B" 
+                } 
+            ] 
+        },
+        {
+            "name": "PAPET",
+            "firstname": "Clara",
+            "image": "papetclara_2011.jpg",
+            "resume_title": "La figure du blogueur influent - en cours",
+            "interests": [
+                "blogs",
+                "lecture",
+                "poissons" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/ClaraJaneM" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/clara-papet/28/8a0/721" 
+                } 
+            ] 
+        },
+        {
+            "name": "SARKAMARI",
+            "firstname": "Aude",
+            "image": "sarkarmariaude_2011.jpg",
+            "resume_title": "L’e-réputation au sein des représentations de marque - en cours",
+            "interests": [
+                "stratégies de communication",
+                "médias digitaux",
+                "interviews vidéo" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/AudeFromParis" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/in/audesarkamari" 
+                } 
+            ] 
+        },
+        {
+            "name": "SCHIMIZZI",
+            "firstname": "Ugo",
+            "image": "schimizziugo_2011.jpg",
+            "resume_title": "« Jeux Pervasifs » : Perception et frontières. Expérience de la réalité et apprentissage des mondes fictifs",
+            "interests": [
+                "art",
+                "culture",
+                "transmedia" 
+            ],
+            "blog": "http://ugophoto.canalblog.com",
+            "social": [
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/in/uschimizzi" 
+                } 
+            ] 
+        },
+        {
+            "name": "SLAMA",
+            "firstname": "Inès",
+            "image": "slamaines_2011.jpg",
+            "resume_title": "La satire politique sur le web - en cours",
+            "interests": [
+                "actualité internationale",
+                "peinture",
+                "jazz" 
+            ],
+            "blog": "",
+            "social": [
+                {
+                    "name": "Twitter",
+                    "url": "http://www.twitter.com/inessoulas" 
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "http://fr.linkedin.com/pub/ines-slama/1a/121/794" 
+                } 
+            ] 
+        } 
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"promo":[
+		{"name":"../../wp-content/themes/agregateur/data/promo2009.json"},
+		{"name":"../../wp-content/themes/agregateur/data/promo2010.json"},
+		{"name":"../../wp-content/themes/agregateur/data/promo2011.json"}
+		]
+}

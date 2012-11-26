@@ -1,0 +1,173 @@
+{
+	"promo": "Misc 2008",
+	"liste":[
+		{
+			
+			"name": "ATTIA",
+			"firstname":"Elise",
+			"image":"elise_2008.jpg",
+			"resume_title":"l’e-edition, modèle transitoire vers l’édition de demain ?",
+			"interests":["nouveaux médias",
+				     "édition",
+				     "publicité"],
+			"blog":"",
+			"social":[
+				{"name":"Viadeo",
+				 "url":"http://www.viadeo.com/fr/profile/elise.attia"}
+				]
+		},
+		{
+			
+			"name": "BOETSCH",
+			"firstname":"Camille",
+			"image":"boetschcamille_2008.jpg",
+			"resume_title":"Science et communication : vers de nouvelles expériences",
+			"interests":["culture numérique",
+				     "usages et pratiques du web",
+				     "journalisme"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/Kamyou"},
+				 {"name":"Viadeo",
+				 "url":"http://www.viadeo.com/fr/profile/camille.boetsch"}
+				]
+		},
+		{
+			
+			"name": "BRASSENS",
+			"firstname":"Hadrien",
+			"image":"brassenshadrien_2008.jpg",
+			"resume_title":"",
+			"interests":["SEO",
+				     "SEM",
+				     "SMM"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/hadrienb"},
+				 {"name":"LinkedIn",
+				 "url":"http://www.linkedin.com/in/brassens"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/brassens"}
+				]
+		},
+		{
+			
+			"name": "BUTTIN",
+			"firstname":"Nicolas",
+			"image":"buttinnicolas_2008.jpg",
+			"resume_title":"La communication sur Internet autour du lancement de l’iPhone en France : une communication de l’attente ?",
+			"interests":["design",
+				     "sustainability",
+				     "Internet of things and people"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/uptomontreal"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/nicolasbuttin"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/profile.php?id=732526966"}
+				]
+		},
+		{
+			
+			"name": "CORVEZ",
+			"firstname":"Marion",
+			"image":"marion_2008.jpg",
+			"resume_title":"Le statut du nouveau producteur de contenu : l’influence des plate-formes de partage de vidéos en ligne sur les productions des internautes",
+			"interests":["animation",
+				     "entertainment",
+				     "culture"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/marioncorvez"}
+				]
+		},
+		{
+			
+			"name": "KRIBI",
+			"firstname":"Raja",
+			"image":"default-user.jpg",
+			"resume_title":"Wat.tv l'imposture informatisée de TF1",
+			"interests":["médias",
+				     "politique",
+				     "ergonomie et graphisme web"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/fissafissa"}
+				]
+		},
+		{
+			
+			"name": "LECOMTE",
+			"firstname":"Lucie",
+			"image":"lecomtelucie_2008.jpg",
+			"resume_title":"Artistes et nouveaux médias : du star system aux stars sans système ?",
+			"interests":["social media",
+				     "expérience",
+				     "brand content"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/_Pinson"},
+				 {"name":"Viadeo",
+				 "url":"http://www.viadeo.com/fr/profile/lucie.lecomte1"}
+				]
+		},
+		{
+			
+			"name": "LEGANGNEUX",
+			"firstname":"Guillaume",
+			"image":"legangneuxguillaume_2009.jpg",
+			"resume_title":"L'insertion d'Internet dans le paysage médiatique traditionnel",
+			"interests":["théâtre",
+				     "voyage",
+				     "voitures"],
+			"blog":"",
+			"social":[
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/guillaume-legangneux/1a/5b9/57"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/legangneux"}
+				]
+		},
+		{
+			
+			"name": "PACHAUD",
+			"firstname":"Coralie",
+			"image":"pachaudcoralie_2008",
+			"resume_title":"Google Earth, géoweb : nouveaux pouvoirs des cartes",
+			"interests":["voyages",
+				     "langues étrangères",
+				     "art contemporain"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/coraliepachaud"},
+				{"name":"LinkedIn",
+				  "url":"http://hu.linkedin.com/in/coraliepachaud"},
+				{"name":"Facebook",
+				"url":"http://www.facebook.com/coralie.pachaud"}]
+		},{
+			
+			"name": "RIFFAUD",
+			"firstname":"Odile",
+			"image":"default-user.jpg",
+			"resume_title":"La notion de confiance en jeu sur les sites Internet des banques",
+			"interests":["voyage",
+				     "emploi",
+				     "éducation"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/odile-riffaud/16/9A4/528"}
+				]
+		}
+
+	]
+	
+}

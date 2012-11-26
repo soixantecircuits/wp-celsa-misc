@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slideshow Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-10 13:12+0100\n"
+"PO-Revision-Date: 2012-11-10 13:12+0100\n"
+"Last-Translator: Stefan Boonstra <stefanboonstra@hotmail.com>\n"
+"Language-Team: Stefan Boonstra <wordpress@stefanboonstra.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/SlideshowPluginPostType.php:40
+msgid "Slideshows"
+msgstr "Slideshows"
+
+#: classes/SlideshowPluginPostType.php:41
+#: views/SlideshowPluginWidget/form.php:7
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: classes/SlideshowPluginPostType.php:42
+msgid "Add New Slideshow"
+msgstr "Nieuwe Slideshow Toevoegen"
+
+#: classes/SlideshowPluginPostType.php:43
+msgid "Edit slideshow"
+msgstr "Slideshow bewerken"
+
+#: classes/SlideshowPluginPostType.php:44
+msgid "New slideshow"
+msgstr "Nieuwe slideshow"
+
+#: classes/SlideshowPluginPostType.php:45
+msgid "View slideshow"
+msgstr "Slideshow bekijken"
+
+#: classes/SlideshowPluginPostType.php:46
+msgid "Search slideshows"
+msgstr "Slideshows zoeken"
+
+#: classes/SlideshowPluginPostType.php:47
+#: classes/SlideshowPluginPostType.php:48
+msgid "No slideshows found"
+msgstr "Geen slideshows gevonden"
+
+#: classes/SlideshowPluginPostType.php:102
+msgid "Information"
+msgstr "Informatie"
+
+#: classes/SlideshowPluginPostType.php:111
+msgid "Slides List"
+msgstr "Slides Lijst"
+
+#: classes/SlideshowPluginPostType.php:120
+msgid "Slideshow Style"
+msgstr "Slideshow Stijl"
+
+#: classes/SlideshowPluginPostType.php:129
+msgid "Slideshow Settings"
+msgstr "Slideshow Instellingen"
+
+#: classes/SlideshowPluginPostType.php:389
+msgid "light"
+msgstr "licht"
+
+#: classes/SlideshowPluginPostType.php:391
+msgid "slide"
+msgstr "slide"
+
+#: classes/SlideshowPluginPostType.php:412
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/SlideshowPluginPostType.php:413
+msgid "No"
+msgstr "Nee"
+
+#: classes/SlideshowPluginPostType.php:415
+msgid "The style used for this slideshow"
+msgstr "De stijl te gebruiken voor deze slideshow"
+
+#: classes/SlideshowPluginPostType.php:415
+msgid "Light"
+msgstr "Licht"
+
+#: classes/SlideshowPluginPostType.php:415
+msgid "Dark"
+msgstr "Donker"
+
+#: classes/SlideshowPluginPostType.php:415
+msgid "Custom"
+msgstr "Aangepast"
+
+#: classes/SlideshowPluginPostType.php:416
+msgid "Custom style editor"
+msgstr "Aangepaste stijl bewerker"
+
+#: classes/SlideshowPluginPostType.php:417
+msgid "Animation used for transition between slides"
+msgstr "Animatie tussen het wisselen van de slides"
+
+#: classes/SlideshowPluginPostType.php:417
+msgid "Slide"
+msgstr "Slide"
+
+#: classes/SlideshowPluginPostType.php:417
+msgid "Fade"
+msgstr "Fade"
+
+#: classes/SlideshowPluginPostType.php:417
+#: classes/SlideshowPluginPostType.php:418
+#: classes/SlideshowPluginPostType.php:419
+#: classes/SlideshowPluginPostType.php:420
+msgid "Animation"
+msgstr "Animatie"
+
+#: classes/SlideshowPluginPostType.php:418
+msgid "Number of seconds the slide takes to slide in"
+msgstr ""
+"Aantal seconden dat de animatie van het inschuiven van de volgende slide "
+"duurt"
+
+#: classes/SlideshowPluginPostType.php:419
+msgid "Number of seconds the description takes to slide in"
+msgstr "Aantal seconden dat het inschuiven van de beschrijving duurt"
+
+#: classes/SlideshowPluginPostType.php:420
+msgid "Seconds between changing slides"
+msgstr "Seconden tussen het wisselen van de slides"
+
+#: classes/SlideshowPluginPostType.php:421
+msgid "Number of slides to fit into one slide"
+msgstr "Aantal slides om in een slide te plaatsen"
+
+#: classes/SlideshowPluginPostType.php:421
+#: classes/SlideshowPluginPostType.php:422
+#: classes/SlideshowPluginPostType.php:423
+#: classes/SlideshowPluginPostType.php:424
+#: classes/SlideshowPluginPostType.php:425
+#: classes/SlideshowPluginPostType.php:426
+#: classes/SlideshowPluginPostType.php:427
+msgid "Display"
+msgstr "Weergave"
+
+#: classes/SlideshowPluginPostType.php:422
+msgid "Width of the slideshow, set to parent&#39;s width on 0"
+msgstr ""
+"Breedte van de slideshow, past zich aan op bovenliggende element wanneer 0"
+
+#: classes/SlideshowPluginPostType.php:423
+msgid "Height of the slideshow"
+msgstr "Hoogte van de slideshow"
+
+#: classes/SlideshowPluginPostType.php:424
+msgid "Height of the description boxes"
+msgstr "Hoogte van de beschrijvingen"
+
+#: classes/SlideshowPluginPostType.php:425
+msgid "Fit image into slide (stretching it)"
+msgstr "Pas afbeelding in de slideshow (oprekken)"
+
+#: classes/SlideshowPluginPostType.php:426
+msgid "Show title and description"
+msgstr "Toon titel en beschrijving"
+
+#: classes/SlideshowPluginPostType.php:427
+msgid "Hide description box, it will pop up when a mouse hovers over the slide"
+msgstr ""
+"Verbeg beschrijving, toon de slide alleen wanneer de muisaanwijzer boven de "
+"slide is"
+
+#: classes/SlideshowPluginPostType.php:428
+msgid "Automatically slide to the next slide"
+msgstr "Automatisch naar de volgende slide gaan"
+
+#: classes/SlideshowPluginPostType.php:428
+#: classes/SlideshowPluginPostType.php:429
+#: classes/SlideshowPluginPostType.php:430
+#: classes/SlideshowPluginPostType.php:431
+msgid "Control"
+msgstr "Controle"
+
+#: classes/SlideshowPluginPostType.php:429
+msgid "Return to the beginning of the slideshow after last slide"
+msgstr "Keer terug naar het begin van de slideshow na de laatste slide."
+
+#: classes/SlideshowPluginPostType.php:430
+msgid "Activate buttons (so the user can scroll through the slides)"
+msgstr "Knoppen activeren (zodat de gebruiker door de slides kan scrollen)"
+
+#: classes/SlideshowPluginPostType.php:431
+msgid "Show control panel (play and pause button)"
+msgstr "Toon controlepaneel (speel en pause knop)"
+
+#: classes/SlideshowPluginPostType.php:432
+msgid "Randomize slides"
+msgstr "Toon slides in willekeurige volgorde"
+
+#: classes/SlideshowPluginPostType.php:432
+#: classes/SlideshowPluginPostType.php:434
+msgid "Miscellaneous"
+msgstr "Overige"
+
+#: classes/SlideshowPluginPostType.php:434
+#, php-format
+msgid "Avoid content filter (disable if '%s' is shown)"
+msgstr "Content filter omzeilen (uitschakelen als '%s' wordt getoond)"
+
+#: classes/SlideshowPluginShortcode.php:129
+msgid "No slideshow selected."
+msgstr "Geen slideshow geselecteerd."
+
+#: classes/SlideshowPluginSlideInserter.php:138
+#: views/SlideshowPluginPostType/slides.php:2
+msgid "Insert"
+msgstr "Invoegen"
+
+#: classes/SlideshowPluginSlideInserter.php:147
+msgid "Load more results"
+msgstr "Meer resultaten laden"
+
+#: classes/SlideshowPluginSlideInserter.php:156
+msgid "No images were found, click here to upload some."
+msgstr "Geen afbeeldingen gevonden, klik hier om afbeeldingen te uploaden."
+
+#: classes/SlideshowPluginSlideInserter.php:216
+msgid "Are you sure you want to delete this slide?"
+msgstr "Weet je zeker dat je deze slide wilt verwijderen?"
+
+#: classes/SlideshowPluginWidget.php:20
+msgid "Enables you to show your slideshows in the widget area of your website."
+msgstr ""
+"Maakt het mogelijk je slideshows te bijken in het widget gebied van je "
+"website."
+
+#: classes/SlideshowPluginWidget.php:26
+msgid "Slideshow Widget"
+msgstr "Slideshow Widget"
+
+#: views/SlideshowPluginPostType/information.php:1
+msgid ""
+"To use this slideshow in your website either add this piece of shortcode to "
+"your posts or pages"
+msgstr ""
+"Om deze slideshow op je website te gebruiken voeg je of dit stukje shortcode "
+"aan je pagina of post toe"
+
+#: views/SlideshowPluginPostType/information.php:3
+msgid ""
+"Or add this piece of code to where ever in your website you want to place "
+"the slideshow"
+msgstr ""
+"Of je voegt dit stuk code toe aan je broncode op de plaats waar je wilt dat "
+"de slideshow te zien is"
+
+#: views/SlideshowPluginPostType/information.php:5
+#, php-format
+msgid "Or go to the %swidgets page%s and show the slideshow as a widget."
+msgstr ""
+"Ook kan je naar de %swidget pagina%s toegaan, om de slideshow te tonen als "
+"widget."
+
+#: views/SlideshowPluginPostType/settings.php:12
+msgid "settings"
+msgstr "instellingen"
+
+#: views/SlideshowPluginPostType/settings.php:26
+#: views/SlideshowPluginPostType/style-settings.php:8
+msgid "Default"
+msgstr "Standaard"
+
+#: views/SlideshowPluginPostType/slides.php:9
+msgid "Add slides to this slideshow by using one of the buttons above."
+msgstr "Voeg slides toe doormiddel van de bovenstaande knoppen."
+
+#: views/SlideshowPluginPostType/slides.php:47
+#: views/SlideshowPluginPostType/slides.php:141
+#: views/SlideshowPluginWidget/form.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: views/SlideshowPluginPostType/slides.php:48
+#: views/SlideshowPluginPostType/slides.php:142
+msgid "Description"
+msgstr "Beschrijving"
+
+#: views/SlideshowPluginPostType/slides.php:49
+#: views/SlideshowPluginPostType/slides.php:143
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: views/SlideshowPluginPostType/slides.php:55
+#: views/SlideshowPluginPostType/slides.php:110
+#: views/SlideshowPluginPostType/slides.php:149
+#: views/SlideshowPluginPostType/slides.php:197
+msgid "Same window"
+msgstr "Zelfde scherm"
+
+#: views/SlideshowPluginPostType/slides.php:56
+#: views/SlideshowPluginPostType/slides.php:111
+#: views/SlideshowPluginPostType/slides.php:150
+#: views/SlideshowPluginPostType/slides.php:198
+msgid "New window"
+msgstr "Nieuw scherm"
+
+#: views/SlideshowPluginPostType/slides.php:60
+#: views/SlideshowPluginPostType/slides.php:115
+#: views/SlideshowPluginPostType/slides.php:154
+#: views/SlideshowPluginPostType/slides.php:202
+msgid "URL"
+msgstr "URL"
+
+#: views/SlideshowPluginPostType/slides.php:76
+#: views/SlideshowPluginPostType/slides.php:170
+msgid "Youtube Video ID"
+msgstr "Youtube Video ID"
+
+#: views/SlideshowPluginPostType/slides.php:94
+#: views/SlideshowPluginPostType/slides.php:101
+msgid "Edit"
+msgstr "Bewerken"
+
+#: views/SlideshowPluginPostType/slides.php:126
+msgid ""
+"An error occurred while loading this slide, and it will not be present in "
+"the slideshow"
+msgstr ""
+"Een fout is ontstaan tijdens het laden van deze slide, de slide zal niet te "
+"bekijken zijn in je slideshow"
+
+#: views/SlideshowPluginPostType/slides.php:131
+#: views/SlideshowPluginPostType/slides.php:162
+#: views/SlideshowPluginPostType/slides.php:177
+#: views/SlideshowPluginPostType/slides.php:211
+msgid "Delete slide"
+msgstr "Verwijder slide"
+
+#: views/SlideshowPluginPostType/support-plugin.php:3
+msgid "Help to keep this plugin free!"
+msgstr "Help mee om deze plugin gratis te houden!"
+
+#: views/SlideshowPluginPostType/support-plugin.php:6
+msgid ""
+"In order to keep you provided with the newest features, forum support, and "
+"bug-fixes, a lot of motivation is required. Therefore I'm kindly asking you "
+"to consider making a small donation to the plugin or rating it as 5-stars on "
+"Wordpress.org. Thank you in advance!"
+msgstr ""
+"Om je te kunnen voorzien van de nieuwste functionaliteiten, forum "
+"ondersteuning en fout-oplossingen, is een hoop motivatie nodig. Daarom zou "
+"ik het enorm waarderen als je een kleine donatie aan de plugin zou willen "
+"doen, of de plugin 5 sterren zou willen geven op Wordpress.org. Alvast "
+"bedankt!"
+
+#: views/SlideshowPluginPostType/support-plugin.php:15
+msgid "Rate on Wordpress.org"
+msgstr "Geef een waardering op Wordpress.org"
+
+#: views/SlideshowPluginPostType/support-plugin.php:24
+msgid "Questions / Suggestions"
+msgstr "Vragen / Opmerkingen"
+
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:4
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:9
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:16
+msgid "Insert a Slideshow"
+msgstr "Slideshow invoegen"
+
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:6
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:50
+msgid "Insert Slideshow"
+msgstr "Slideshow invoegen"
+
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:26
+msgid "Select a slideshow"
+msgstr "Selecteer een slideshow"
+
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:35
+msgid "Untitled slideshow"
+msgstr "Naamloze slideshow"
+
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:55
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: views/SlideshowPluginShortcode/shortcode-inserter.php:66
+#, php-format
+msgid ""
+"It seems you haven't created any slideshows yet. %sYou can create a "
+"slideshow here!%s"
+msgstr ""
+"Het ziet er naar uit dat je nog geen slideshows hebt gemaakt. %sHier kan je "
+"een slideshow maken!%s"
+
+#: views/SlideshowPluginSlideInserter/insert-image-button.php:1
+msgid "Image slide"
+msgstr "Afbeeldingsslide"
+
+#: views/SlideshowPluginSlideInserter/insert-text-button.php:1
+msgid "Text slide"
+msgstr "Tekst slide"
+
+#: views/SlideshowPluginSlideInserter/insert-video-button.php:1
+msgid "Video slide"
+msgstr "Video slide"
+
+#: views/SlideshowPluginSlideInserter/search-popup.php:6
+msgid "Search"
+msgstr "Zoek"
+
+#: views/SlideshowPluginSlideInserter/search-popup.php:7
+msgid "Search images by title or ID"
+msgstr "Zoek afbeeldingen op titel of ID"
+
+#: views/SlideshowPluginUpload/upload-button.php:1
+msgid "Upload/Manage Images"
+msgstr "Upload/Beheer Afbeeldingen"
+
+#: views/SlideshowPluginWidget/form.php:9
+msgid "Random Slideshow"
+msgstr "Willekeurige Slideshow"
+
+#~ msgid "Custom style editor (Does not work with a Strict Doctype)"
+#~ msgstr "Aangepaste stijl bewerker (Werkt niet met een Strict Doctype)"
+
+#~ msgid "Has the Slideshow plugin helped you?"
+#~ msgstr "Heeft de Slideshow plugin je geholpen?"
+
+#~ msgid "Help it back!"
+#~ msgstr "Help hem terug!"
+
+#~ msgid ""
+#~ "If this plugin has filled you with happiness, please support the upkeep "
+#~ "of the plugin by rating it on Wordpress, posting a suggestion for "
+#~ "improvement on the support forum, or making a donation."
+#~ msgstr ""
+#~ "Als deze plugin je met blijdschap heeft vervuld, zou ik het enorm "
+#~ "waarderen als je de plugin wilt beoordelen op Wordpress, een suggestie "
+#~ "wilt maken voor verbetering, of een donatie doen wilt."
+
+#~ msgid "Click on an image to insert it as a slide"
+#~ msgstr "Klik op een plaatje om deze in te voegen als slide"
+
+#~ msgid "Width of the slideshow"
+#~ msgstr "Breedte van de slideshow"
+
+#~ msgid "Defaults to parent's width."
+#~ msgstr "Standaard ingesteld op de breedte van het bovenliggende element."
+
+#~ msgid "Send user to image URL on click"
+#~ msgstr ""
+#~ "Wanner de gebruiker op de afbeelding klikt, stuur hem naar de URL van het "
+#~ "plaatje"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Custom style"
+#~ msgstr "Aangepaste stijl"
+
+#~ msgid "Leave any field open to use default value."
+#~ msgstr "Een veld dat open wordt gelaten neemt de standaardwaarde aan."

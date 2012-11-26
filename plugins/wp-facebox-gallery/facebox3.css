@@ -1,0 +1,168 @@
+#facebox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  text-align: left;
+}
+
+
+#facebox .popup{
+  position:relative;
+  border:3px solid rgba(0,0,0,0);
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border-radius:5px;
+  -webkit-box-shadow:0 0 18px rgba(0,0,0,0.4);
+  -moz-box-shadow:0 0 18px rgba(0,0,0,0.4);
+  box-shadow:0 0 18px rgba(0,0,0,0.4);
+}
+
+#facebox .body {
+  *background-color: #fff; /* IE7 Fix */
+}
+
+#facebox .content {
+  display:table;
+  padding: 10px;
+  background: #fff;
+  -webkit-border-radius:4px 4px 0 0;
+  -moz-border-radius:4px 4px 0 0;
+  border-radius:4px 4px 0 0;
+}
+
+#facebox .loading {
+  display:table;
+  padding: 10px;
+  background: #fff;
+  -webkit-border-radius:4px;
+  -moz-border-radius:4px;
+  border-radius:4px;
+}
+
+#facebox .content > p:first-child{
+  margin-top:0;
+}
+#facebox .content > p:last-child{
+  margin-bottom:0;
+}
+
+#facebox .close{
+  position:absolute;
+  top:4px;
+  right:4px;
+  padding: 3px 4px 5px 8px;
+  border: 2px solid #777;
+  background:#fff;
+  width: 12px;
+  -webkit-border-radius:18px;
+  -moz-border-radius:18px;
+  border-radius:18px;
+}
+#facebox a.close:hover {
+  background-color: #eee;
+  border: 2px solid #000;
+}
+#facebox .close img{
+  opacity:0.3;
+}
+#facebox .close:hover img{
+  opacity:1.0;
+}
+
+#facebox .loading {
+  text-align: center;
+}
+
+#facebox .image {
+  text-align: center;
+}
+
+#facebox img {
+  border: 0;
+  margin: 0;
+}
+
+#facebox_overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+}
+
+.facebox_hide {
+  z-index:-100;
+}
+
+.facebox_overlayBG {
+  background-color: #000;
+  z-index: 99;
+}
+
+#facebox .footer {
+  border-top: 1px solid #DDD;
+  *border-top: 0px; /* Fix for IE7 */
+  padding: 4px 10px;
+  text-align: center;
+  clear: left;
+  background: #fff;
+
+  -webkit-border-radius:0 0 4px 4px;
+  -moz-border-radius:0 0 4px 4px;
+  border-radius:0 0 4px 4px;
+}
+
+#facebox .info_title {
+  background: #fff;
+  padding: 0 10px;
+}
+
+#facebox .info {
+/*  margin-top: 5px;*/
+  font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+  color: #777;
+  line-height: 16px;
+  font-size: 11px;
+  float: left;
+  width: 20%;
+  min-width: 72px;
+}
+
+#facebox .title {
+  font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+  color: #777;
+  line-height: 16px;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#facebox .caption {
+  font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+  color: #777;
+  line-height: 16px;
+  font-weight: normal;
+  font-size: 11px;
+  text-align: left;
+  padding: 5px 10px 0 97px;
+  min-height: 24px;
+}
+
+#facebox .navigation {
+  float: left;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 72px;
+}
+
+#facebox .close {
+  float: right;
+}
+
+#facebox .next, #facebox .prev {
+  font-size: 170%;
+}

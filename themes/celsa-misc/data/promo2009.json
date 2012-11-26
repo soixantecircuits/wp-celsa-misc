@@ -1,0 +1,204 @@
+{
+	"promo": "Misc 2009",
+	"liste":[
+		{
+			"name": "ACHALME",
+			"firstname":"Leslie",
+			"image":"leslie_2009.jpg",
+			"resume_title":"In-game advertising et communauté de joueurs",
+			"interests":["jeux vidéo",
+				     "lecture",
+				     "voyage"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				  "url":"http://www.linkedin.com/in/leslieachalme"}]
+		},
+		{
+			
+			"name": "ALLARD",
+			"firstname":"Antoine",
+			"image":"allardantoine_2009.jpg",
+			"resume_title":"Les nouveaux enjeux de l'organisation du Web ",
+			"interests":["influence digitale",
+				     "éditorial",
+				     "storytelling"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/antoninocorazon"},
+				 {"name":"LinkedIn",
+				 "url":"http://www.linkedin.com/in/antoineallard"}
+				]
+		},
+		{
+			
+			"name": "BERCHON",
+			"firstname":"Mathilde",
+			"image":"berchonmathilde_2009.jpg",
+			"resume_title":"La figure de l'entrepreneur du web",
+			"interests":["entreprenariat",
+				     "open design",
+				     "San Francisco"],
+			"blog":"http://makingsociety.com/",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/mathmath"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/mathildeberchon"},
+				 {"name":"Delicious",
+				 "url":"http://www.delicious.com/mathild"}
+				]
+		},
+		{
+			
+			"name": "DITH",
+			"firstname":"Frédéric",
+			"image":"dithfrederic_2009.jpg",
+			"resume_title":"La lomographie - Etude d’un mouvement et d’une communauté artistique sur le web fondés autour d’une esthétique",
+			"interests":["design",
+				     "typographie",
+				     "Internet"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/fre"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/fredericdith"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/fredericdith"},
+				 {"name":"Delicious",
+				 "url":"http://www.delicious.com/dithfrederic"}
+				]
+		},
+		{
+			
+			"name": "DUPORT",
+			"firstname":"Cyril",
+			"image":"duportcyril_2009.jpg",
+			"resume_title":"Le succès du netbook face au concept d’innovation technologique",
+			"interests":["jeux d'argent",
+				     "social marketing",
+				     "webmerketing"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/cyrilduport"},
+				 {"name":"LinkedIn",
+				 "url":"http://www.linkedin.com/in/cyrilduport"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/duport.cyril"},
+				 {"name":"Viadéo",
+				 "url":"http://fr.viadeo.com/profile/0021olnbi1k5smfa"}
+				]
+		},
+		{
+			
+			"name": "LACHERAY",
+			"firstname":"Julien",
+			"image":"lacherayjulien_2009.jpg",
+			"resume_title":"L’influence : convergence symbolique et économique dans la blogosphère",
+			"interests":["mode",
+				     "musique",
+				     "Internet"],
+			"blog":"http://www.fenetresurpapillon.com",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/Julien_FsP"},
+				 {"name":"LinkedIn",
+				 "url":"http://www.linkedin.com/in/julienlacheray"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/julien.lacheray"}
+				]
+		},
+		{
+			
+			"name": "LE NAGARD",
+			"firstname":"Erwan",
+			"image":"lenagarderwan_2009.jpg",
+			"resume_title":"Social Media Optimization - Valoriser les audiences externes dans le cadre de la construction d’une image de marque média par un opérateur téléphonique",
+			"interests":["musique",
+				     "social media",
+				     "culture"],
+			"blog":"http://www.erwanlenagard.com",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/metalnbibbopp"},
+				 {"name":"LinkedIn",
+				 "url":"http://www.linkedin.com/in/erwanlenagard"},
+				 {"name":"Facebook",
+				 "url":"http://www.facebook.com/erwan.lenagard"},
+				 {"name":"Delicious",
+				 "url":"http://www.delicious.com/metalnbibbopp"}
+				]
+		},
+		{
+			
+			"name": "MAES",
+			"firstname":"Égide",
+			"image":"maesegide_2009.jpg",
+			"resume_title":"L'ambiguïté relationnelle entre les marques et les clients à travers leurs imaginaires du téléphone portable",
+			"interests":["mobile",
+				     "rap",
+				     "influence"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/egide"},
+				{"name":"LinkedIn",
+				  "url":"http://fr.linkedin.com/in/egidemaes"},
+				{"name":"Facebook",
+				"url":"http://www.facebook.com/egide"}]
+		},
+		{
+			
+			"name": "PERROT",
+			"firstname":"Anne",
+			"image":"perrotanne_2009.jpg",
+			"resume_title":"Les paradoxes entre le dispositif du blog interne et la réalité culturelle de l’armée de terre",
+			"interests":["défense",
+				     "art",
+				     "cuisine"],
+			"blog":"",
+			"social":[
+				{"name":"LinkedIn",
+				  "url":"http://fr.linkedin.com/in/anneperrothue"},
+				{"name":"Facebook",
+				"url":"http://facebook.com/anne.perrothue"}]
+		},
+		{
+			
+			"name": "POLET",
+			"firstname":"Laura",
+			"image":"poletlaura_2009.jpg",
+			"resume_title":"Twitter : simples bavardages ou révélateur des usages de demain ?",
+			"interests":["politique",
+				     "médias",
+				     "web"],
+			"blog":"",
+			"social":[
+				{"name":"Twitter",
+				 "url":"http://www.twitter.com/laurapolet"},
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/pub/laura-polet/4/b00/654"}
+				]
+		},
+		{
+			
+			"name": "TRICOCHE",
+			"firstname":"Raphaelle",
+			"image":"tricocheraphaelle_2009.jpg",
+			"resume_title":"Les recommandations musicales et la gouvernance du jugement. Le cas de Genius sur iTunes",
+			"interests":["musique",
+				     "chocolat",
+				     "gens"],
+			"blog":"",
+			"social":[
+				 {"name":"LinkedIn",
+				 "url":"http://fr.linkedin.com/in/raphaelletricoche"}
+				]
+		}
+
+	]
+	
+}

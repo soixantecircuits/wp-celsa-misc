@@ -1,0 +1,617 @@
+{
+    "promo": "Misc 2012",
+    "liste": [
+      {
+          "name": "ABOS",
+          "firstname": "Maïté",
+          "image": "maite_2012.jpg",
+          "resume_title": "Live et temps réel : nouvelles normes de temporalité sur le web - en cours et Circulation et recomposition du religieux sur le web - achevé",
+          "interests": [
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/Mte_ab"
+                  },
+
+		 {
+                  "name": "Viadeo",
+                  "url": "http://www.viadeo.com/fr/profile/maite.abos1"
+		}	
+          ]
+       },
+
+  {
+          "name": "AOUSTIN",
+          "firstname": "Sarah",
+          "image": "sarah_2012.jpg",
+          "resume_title": "Les discours de marque autour de la culture web : l’exploitation de la culture web par les marques - le cas du luxe - en cours",
+          "interests": [
+              "mode",
+              "lifestyle",
+              "culture digitale"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter" ,
+                  "url": "http://www.twitter.com/sarah_aoustin"
+                  },
+
+ 		{
+                  "name": "Viadeo",
+                  "url": "http://www.viadeo.com/fr/profile/sarah.aoustin"
+
+		},
+
+		{
+		"name": "Linkedin",
+		"url" : "http://www.linkedin.com/pub/sarah-aoustin/39/b8b/a5b"
+		}              
+          ]
+      },
+
+  {
+          "name": "BARRAUD",
+          "firstname": "Bastien",
+          "image": "bastien_2012.jpg",
+          "resume_title": "Publicité version 2.0 - Achevé",
+          "interests": [
+              "Internet",
+              "nouvelles technologies",
+              "moto & automobile"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/BBBastien"
+              }
+          ]
+      },
+
+
+      {
+          "name": "CHAILLOUX",
+          "firstname": "Alexis",
+          "image": "alexis_2012.jpg",
+          "resume_title": "La promesse du datajournalisme - en cours",
+          "interests": [
+              "politique",
+              "Amerique Latine",
+    	      "bande dessinée",
+	      "gastronomie"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/achailloux"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/alexis-chailloux/41/743/826"
+              },
+    {
+                  "name": "Viadeo",
+                  "url": "http://www.viadeo.com/fr/profile/alexis.chailloux"
+              }
+
+          ]
+      },
+
+
+      {
+          "name": "CHATAIGNER",
+          "firstname": "Romain",
+          "image": "romain_2012.jpg",
+          "resume_title": "Téléchargement illégal et offre légale gratuite : quand la contre-culture échappe aux dispositifs normés - en cours",
+          "interests": [
+              "TV américaine",
+              "Cinéma",
+              "Littérature"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "https://twitter.com/#!/R0m_C"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/in/romainchataigner"
+              }
+          ]
+      },
+
+
+      {
+          "name": "COUDRAY",
+          "firstname": "Maeliss",
+          "image": "maeliss_2012.jpg",
+          "resume_title": "Mythes et représentations du web mobile. La formulation d'un nouveau rapport à l'information au sein de la conception des applications mobiles de presse",
+          "interests": [
+              "musique",
+              "photographie",
+	      "sociologie des usages"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/MCoudray"
+              },
+{
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/in/maelisscoudray"
+              }
+
+          ]
+      },
+
+  {
+          "name": "DUMONT",
+          "firstname": "Claire",
+          "image": "claired_2012.jpg",
+          "resume_title": "L'économie de la surprise dans le e-commerce : les Beauty Box (en cours) - Quand la presse fait de la télévision sur Internet (achevé)",
+          "interests": [
+              "Australie",
+              "Petites chaussures",
+              "L'Internet Mondial"
+          ],
+          "blog": "",
+     		 "social": [
+
+		{
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/petitpieds"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/pub/claire-dumont/40/730/932"
+              }
+
+          ]
+      },
+
+      {
+          "name": "FIERE",
+          "firstname": "Hadrien",
+          "image": "hadrien_2012.jpg",
+          "resume_title": "Les Révolutionnaires numériques: imaginaires et représentations des hackers, activistes et hacktivistes.",
+	  "interests": [
+              "culture digitale",
+              "cinéma",
+              "sociologie du web"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/warden"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/in/hadrienfiere"
+              },
+              {
+                  "name": "Facebook",
+                  "url": "http://www.facebook.com/HadrienFiere"
+              }
+          ]
+      },
+
+    {
+          "name": "GASULLA",
+          "firstname": "Dimitri",
+          "image": "dimitri_2012.jpg",
+          "resume_title": "L'engagement, nouvelle métrique publicitaire ? Le cas de la Social TV.",
+          "interests": [
+              "Social TV",
+              "Social Media",
+              "Cinéma et audiovisuel"
+          ],
+          "blog": "http://mediafragmentation.wordpress.com/",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/MrDimitriG"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/in/dimitrigasulla"
+              },
+
+{
+                  "name": "Viadeo",
+                  "url": "http://www.viadeo.com/fr/profile/dimitri.gasulla"
+              }       
+
+]
+      },
+ {
+          "name": "JEAN-LOUIS",
+          "firstname": "Eusane",
+          "image": "eusane_2012.jpg",
+          "resume_title": "Relations presse et nouveaux médias : vers les RP 2.0 - achevé",
+          "interests": [
+              "Presse féminine",
+              "Séries américaines",
+              "Comédies classiques",
+    	      "Applications smartphones et tablettes"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "https://twitter.com/#!/Eusane_JL"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/eusane-jean-louis/44/802/1b7"
+              }
+          ]
+      },
+
+
+      {
+          "name": "JERABEK",
+          "firstname": "Morgan",
+          "image": "morgan_2012.jpg",
+          "resume_title": "La prédiction de requêtes par les moteurs de recherche",
+          "interests": [
+              "oenologie",
+              "gastronomie",
+              "SEO"
+          ],
+          "blog": "http://morgan.jerabek.fr",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://twitter.com/#!/ElCherubin"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/in/morganjerabek"
+              }
+          ]
+      },
+
+  {
+          "name": "LAC",
+          "firstname": "Camille",
+          "image": "camille_2012.jpg",
+          "resume_title": "Les processus d'interactivité dans les MMORPGs",
+          "interests": 
+		[
+              "jeux vidéo",
+              "Japon",
+              "culture digitale"
+	          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://twitter.com/CamilleCelsa"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/pub/camille-lac/10/6b1/a20"
+              }
+                         ]
+      },
+
+   {
+          "name": "MARETTO",
+          "firstname": "Sylvain",
+          "image": "sylvain_2012.jpg",
+          "resume_title": "Les nouvelles pratiques de l’esthétique sur internet, entre amateurs et communautés",
+          "interests": [
+              "E-diplomatie et softpower",
+              "culture et internet",
+              "sciences humaines et digital humanities"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/sylvainmaretto"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/in/sylvainmaretto"
+              },
+              {
+                  "name": "Flavors.me",
+                  "url": "http://www.flavors.me/whoissylvain"
+              }
+          ]
+      },
+
+ {
+          "name": "MARRONNIER",
+          "firstname": "Nicolas",
+          "image": "nicolas_2012.jpg",
+          "resume_title": "De quoi le transmedia est-il le nom ? (M1) // Friction-less sharing (M2)",
+          "interests": [
+              "sciences humaines",
+              "journalisme",
+              "social media bullshit"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/marronniern"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/profile/view?id=36325992"
+              }
+          ]
+      },
+
+   {
+          "name": "MOTHAY",
+          "firstname": "Mathieu",
+          "image": "default-user.jpg",
+          "resume_title": "Le protocole Open Graph - en cours",
+          "interests": 
+	[
+              "Confidentialité"
+        ],
+	"blog": "",
+          "social": [
+              
+          ]
+      },
+
+      {
+          "name": "MOULLINTRAFFORT",
+          "firstname": "Audrey",
+          "image": "audrey_2012.jpg",
+          "resume_title": "en cours",
+          "interests": [
+              "arts plastiques",
+              "storytelling",
+              "axolotl",
+  	      "design d’expérience"
+          ],
+          "blog": "",
+          "social": [
+    {
+                  "name": "Viadeo",
+                  "url": "www.viadeo.com/fr/profile/audrey.moullintraffort"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://www.linkedin.com/pub/audrey-moullintraffort/29/1aa/a68"
+              }
+          ]
+      },
+
+ {
+          "name": "NEELZ",
+          "firstname": "Morgane",
+          "image": "morgane_2012.jpg",
+          "resume_title": "Les mises en scène de la cuisine sur le web (titre provisoire) - en cours",
+          "interests": [
+              "communication éditoriale",
+              "cuisine",
+              "moto"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "https://twitter.com/#!/morganeneelz"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/morgane-neelz/28/746/113"
+              }
+          
+          ]
+ },
+
+ {
+          "name": "NIGHOGHOSSIAN",
+          "firstname": "Anaïs",
+          "image": "anais_2012.jpg",
+          "resume_title": "Max Boublil, humoriste 2.0?",
+          "interests": [ 
+		"Musique en ligne",
+		"Pop Art",
+		"Italie" 
+		],
+	 "blog": "",
+          "social": [
+              {
+              "name" : "LinkedIn",
+	      "url": "http://www.linkedin.com/pub/anaïs-nighoghossian/23/9b7/852"
+
+		},
+
+     {
+              "name" : "Viadeo",
+	      "url": "http://fr.viadeo.com/fr/profile/anais.nighoghossian"
+
+		},
+
+		{
+	           "name": "Twitter",
+                  "url": "http://twitter.com/#!/anighoghossian"
+              }
+          ]
+      },
+
+ {
+          "name": "NOLLET",
+          "firstname": "Marion",
+          "image": "marion_2012.jpg",
+          "resume_title": "Les mèmes sur Internet, de l'appropriation d’une culture à la culture de l'appropriation : le cas My Little Pony - en cours",
+          "interests": [
+              "photographie",
+              "musique classique",
+  	      "réseaux sociaux",
+    		"communautés virtuelles",
+    		"culture lol"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/marion-nollet/44/69b/68a"
+              }
+          ]
+      },
+  
+       {
+          "name": "PIETRI",
+          "firstname": "Manon",
+          "image": "default-user.jpg",
+          "resume_title": "Le transmédia et les séries télévisées : quand la fiction s'ancre dans le réel - en cours",
+          "interests": [
+              "Digital",
+              "Transmédia",
+           "Publicité",
+              "Travaux manuels"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Facebook",
+                  "url": "http://fr-fr.facebook.com/people/Manon-Pietri/1542534706"
+              }
+		]
+	},
+
+        {
+          "name": "PIQUER-LOUIS",
+          "firstname": "Oriane",
+          "image": "oriane_2012.jpg",
+          "resume_title": "La ligne de commande : une esthétique de l'efficacité - en cours",
+          "interests": [
+              "code",
+              "engagement",
+              "café"
+          ],
+          "blog": "http://www.hauteresolution.net",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/quota_atypique"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/oriane-piquer-louis/19/9a9/650"
+              }
+          ]
+      },
+      {
+          "name": "PRIMARD",
+          "firstname": "Delphine",
+          "image": "delphine_2012.jpeg",
+          "resume_title": "Etsy.com : l'artisanat 2.0 - titre provisoire - en cours",
+          "interests": [
+              "entrepreunariat",
+              "digital studies"
+          ],
+	"blog": "",
+          "social": [
+          ]
+      },
+
+      {
+          "name": "ROUGEVIN BAVILLE",
+          "firstname": "Alix",
+          "image": "alix_2012.jpg",
+          "resume_title": "Les représentations du digital dans les médias traditionnels",
+          "interests": [
+              "Théâtre",
+              "Médias",
+              "Théâtre"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://twitter.com/#!/AlixRougevin"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/alix-rougevin-baville/1b/11/83a"
+              }
+          ]
+      },
+
+      {
+          "name": "SANTUCCI",
+          "firstname": "Julien",
+          "image": "julien_2012.jpeg",
+          "resume_title": "L'inscription dans un univers réel d'éléments fictionnels : les fictions et leurs personnages sur Internet. - en cours",
+          "interests": [
+              "Séries TV",
+              "Musique",
+              "Social Media"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "http://www.twitter.com/JulienSantucci"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/julien-santucci/21/a22/b2b"
+              }
+          ]
+      },
+
+      {
+          "name": "SCARAZZATI",
+          "firstname": "Luciane",
+          "image": "luciane_2012.jpg",
+          "resume_title": "La presse traditionelle sur les réseaux sociaux - titre provisoire - en cours",
+          "interests": [
+              "réseaux sociaux",
+              "journalisme",
+              "voyages"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Twitter",
+                  "url": "https://twitter.com/#!/lucianecs"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "http://fr.linkedin.com/pub/luciane-scarazzati/41/765/676"
+              }
+          ]
+      },
+
+      {
+          "name": "VANALDEWERELD",
+          "firstname": "Claire",
+          "image": "claire_2012.jpg",
+          "resume_title": "L'expression de l'identité au sein des communautés en ligne - titre provisoire - en cours",
+          "interests": 
+	[
+              "Peinture",
+           "Cuisine",
+           "Communication interne",
+              "Community manager"
+          ],
+          "blog": "",
+          "social": [
+              {
+                  "name": "Viadeo",
+                  "url": "http://www.viadeo.com/fr/profile/claire.vanaldewereld"
+              }
+          ]
+      }      
+
+]
+}

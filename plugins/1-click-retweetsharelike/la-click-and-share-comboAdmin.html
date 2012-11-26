@@ -1,0 +1,818 @@
+<div class="lacands_widget_title">
+	<img src="http://lh4.ggpht.com/owLnuUNOtSkZCW2PKk1MKSutmjbQAjMB4_N094Zz6uTBENTsGRLt2lQWG0o6yMXheS_93DwahbndU-EPqc8=s28" />&nbsp;<?php echo LAECHONW_WIDGET_NAME; ?>
+</div>
+
+<div class="lacands_box_white">
+	<div class="lacands_font_bold14"><?php _e("Preview"); ?></div>
+	<div class="lacands_header_border_bottom"></div>
+	<div style="padding-top:5px;">
+		<iframe style="height:25px !important; border:none !important; overflow:hidden !important; width:560px !important;" frameborder="0" scrolling="no" allowTransparency="true" src="http://www.linksalpha.com/social?link=http%253A%252F%252Fdev30.linksalpha.com%252F%253Fp%253D8&fc=333333&fs=lucida+grande&fblname=like&fblref=fb&fbllang=en_US&twitterlang=en&twittermention=vivekpuri&twitterrelated1=vivekpuri&twitterrelated12=twitfn&linkedinbutton=show&g1button=1"></iframe>
+	</div>
+</div>
+
+<div class="lacands_box">
+	<div class="lacands_font_bold14"><?php echo LACANDS_AUTO_PUBLISH_ON_NETWORKS; ?></div>
+	<div class="lacands_header_border_bottom"></div>
+	<div class="lacands_started" style="margin:20px;">
+		<div style="padding:0px 0px 5px 0px;"><?php _e(LACANDSNW_NETWORKPUB.". To configure:"); ?></div>
+		<div><b>1.</b>&nbsp;<?php _e("Connect to your Social Networks at"); ?>&nbsp;<a target="_blank" href="http://www.linksalpha.com/user/networks">LinksAlpha.com</a></div>
+		<div><b>2.</b>&nbsp;<?php _e("Get"); ?>&nbsp;<a target="_blank" href="http://www.linksalpha.com/user/your_api_key"><?php _e("your API Key"); ?></a>&nbsp;<?php _e("and enter it below."); ?></div>
+		<div style="padding:5px 0px 0px 0px;"><?php _e("Once setup, your Blog posts content appears on the social networks as soon as you hit the Publish button."); ?></div>
+		<div><?php _e("You can"); ?>&nbsp;<a href="http://help.linksalpha.com/wordpress-plugin-network-publisher" target="_blank"><?php _e("read more about this process at LinksAlpha.com."); ?></a></div>
+	</div>
+	<div style="margin:20px;">
+		<div class="lacandsnw_content_box">
+			<div class="lacandsnw_content_box_header">
+				<img src="http://www.linksalpha.com/images/config.png" />&nbsp;<?php _e("Setup"); ?>
+			</div>
+			<div class="lacandsnw_content_box_data">
+				<form action="" method="post" id="networkpubadd" name="networkpubadd">
+					<fieldset class="rts_fieldset">
+						<legend><?php _e("API Key"); ?></legend>
+						<table style="width:100%;">
+							<tr>
+								<td>
+									<label for="<?php echo $field_name ?>">
+										<a href="http://www.linksalpha.com/user/your_api_key" target="_blank"><?php _e("Click here"); ?></a>&nbsp;<?php _e("to get your API Key"); ?>&nbsp;<?php _e("and enter it in the box below"); ?>
+									</label>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div style="padding-bottom:10px">
+										<input style="width:400px;" class="widefat" id="<?php echo $field_name ?>" name="<?php echo $field_name ?>" type="text" />
+									</div>
+								</td>
+							</tr>
+						</table>
+					</fieldset>
+					<table class="lacands_add_key_submit">
+	                	<tr>
+	                    	<td class="lacands_add_key_submit_button">
+	                        	<input type="submit" name="AddAPIKey" class="button-primary" value="Add API Key" />
+							</td>
+	                        <td class="lacands_add_key_submit_social">
+	                        	<div class="lacands_add_key_submit_social_helper">Share the Plugin:</div>
+	                        	<div class="lacands_add_key_submit_social_buttons">
+		                            <div style="margin:0px 0px 0px 0px !important;" id="linksalpha_tag_32587491111" class="linksalpha-email-button" data-url="http://www.linksalpha.com" data-text="LinksAlpha - Making Social Easy" data-desc="LinksAlpha provides quick and easy way for companies and users to connect and share on social web. Using LinksAlpha tools, you can integrate Social Media Buttons into your website, Publish your Website Content Automatically to Social Media Sites, and Track Social Media Profiles, all from one place." data-site="http://www.linksalpha.com" data-image="http://www.linksalpha.com/images/LALOGO_s175.png" ></div>
+		                            <script type="text/javascript" src="http://www.linksalpha.com/social/loader?tag_id=linksalpha_tag_32587491111&link=http%3A%2F%2Fwww.linksalpha.com&halign=left&fblikeverb=like&fblikeref=linksalpha&fblikefont=arial&v=2&twitterw=110&facebookw=90&googleplus=1&facebook=1&twitter=1&linkedin=1&reddit=1&stumbleupon=1&pinterest=1&identica=1&yammer=1&gmail=1&yahoomail=1&hotmail=1&aolmail=1&mailru=1&email=1&print=1&digg=1&delicious=1&diigo=1&posterous=1&tumblr=1&myspace=1&evernote=1&instapaper=1&readitlater=1&msn=1&livejournal=1&sonico=1&netlog=1&hyves=1&xing=1&vkontakte=1&weibo=1&button=googleplus%2Cfacebook%2Ctwitter&gpluslang=en-US&twitterlang=en&xinglang=en&fblikelang=en_US&twittermention=vivekpuri&twitterrelated1=linksalpha&twitterhash=linksalpha&twitterrelated=linksalpha&counters=googleplus%2Cfacebook%2Ctwitter%2Clinkedin"></script>
+		                        </div>
+	                        </td>
+						</tr>
+					</table>
+				</form>
+			</div>
+		</div>
+		<br />
+		<div class="lacandsnw_ajax_msg"></div>
+		<div class="lacandsnw_content_box">
+			<div class="lacandsnw_content_box_header">
+				<?php _e("Currently Publishing"); ?>
+			</div>
+			<div class="lacandsnw_content_box_data">
+				<div id="la-idAPIBox">
+				 <?php echo lacandsnw_networkpub_load() ?>
+				</div>
+			</div>
+		</div>
+		<br />
+		
+		<div class="lacandsnw_ajax_msg"></div>
+		<div class="lacandsnw_content_box">
+		    <div class="lacandsnw_content_box_header">
+		       <?php _e("Show/Hide Authorization Errors"); ?>
+		    </div>
+		    <div class="lacandsnw_content_box_data">
+		        <form action="" method="post">
+		            <div>
+		                <input type="checkbox" id="lacandsnw_auth_error_show" name="lacandsnw_auth_error_show" <?php echo $lacandsnw_auth_error_show; ?> /><label for="lacandsnw_auth_error_show">&nbsp;&nbsp;<?php _e("Check this box to show error message in WordPress Admin Console in case there are Authorization Errors with any of your social network profiles."); ?> <a target="_blank" href="http://help.linksalpha.com/networks/authorization-error"><?php _e("Click Here"); ?></a> <?php _e("to learn more."); ?></label>
+		            </div>
+		            <div style="padding-top:5px;">
+		                <input type="hidden" name="lacandsnw_form_type" value="lacandsnw_auth_error_show" />
+		                <input type="hidden" name="action" value="lacandsnw_save_options" />
+		                <input type="button" name="submit" class="button-primary lacandsnw_options" value="<?php _e("Update"); ?>" />
+		            </div>
+		        </form>
+		    </div>
+		</div>
+		<br />
+		<div class="lacandsnw_ajax_msg"></div>
+		<div class="lacandsnw_content_box">
+		    <div class="lacandsnw_content_box_header">
+		        <?php _e("Show/Hide Mixed Mode Configuration Alert"); ?>
+		    </div>
+		    <div class="lacandsnw_content_box_data">
+		        <form action="" method="post">
+		            <div>
+		                <input type="checkbox" id="lacandsnw_mixed_mode_alert_show" name="lacandsnw_mixed_mode_alert_show" <?php echo $lacandsnw_mixed_mode_alert_show; ?> /><label for="lacandsnw_mixed_mode_alert_show">&nbsp;&nbsp;<?php _e("Check this box to show alert if Mixed Mode configuration is detected."); ?> <a target="_blank" href="http://help.linksalpha.com/wordpress-plugin-network-publisher/mixed-mode-alert"><?php _e("Click Here"); ?></a> <?php _e("to learn more."); ?></label>
+		            </div>
+		            <div style="padding-top:5px;">
+		                <input type="hidden" name="lacandsnw_form_type" value="lacandsnw_mixed_mode_alert_show" />
+		                <input type="hidden" name="action" value="lacandsnw_save_options" />
+		                <input type="button" name="submit" class="button-primary lacandsnw_options" value="<?php _e("Update"); ?>" />
+		            </div>
+		        </form>
+		    </div>
+		</div>
+		<br />
+		<div class="lacandsnw_content_box">
+		    <div class="lacandsnw_content_box_header">
+		        <?php _e("Note"); ?>
+		    </div>
+		    <div class="lacandsnw_content_box_data">
+		        <?php _e("If you decide to stop using this functionality permanently, please remove your blog from"); ?>&nbsp;<a href="https://www.linksalpha.com/websites" target="_blank"><?php _e("LinksAlpha Website Manager"); ?></a>. <?php _e("Otherwise, your blog posts may continue to get posted even after you do not use this plugin. For Support, open ticket at"); ?>&nbsp;<a target="_blank" href="http://support.linksalpha.com">LinksAlpha Help Desk</a>.
+		    </div>
+		</div>
+		<br />
+           
+        <div class="lacandsnw_content_box">
+		    <div class="lacandsnw_content_box_header">
+				<?php _e("Postbox"); ?>
+			</div>
+			<div class="lacandsnw_content_box_data">
+				<table>
+					<tr>
+						<td>
+							<div style="padding-bottom: 3px;">To self Publish content to your Social Networking Profiles right from your blog, click on the button below:</div>
+							<table>
+							    <tr>
+							        <td>
+							            <div>
+							                <a href="<?php echo lacandsnw_postbox_url(); ?>" style="text-decoration:none;">
+							                    <div class="lacands_button_yellow"><?php _e("View"); ?> Postbox</div>
+							                </a>
+							            </div>
+							        </td>
+							    </tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+
+<form method="post" action="<?php echo $_SERVER["REQUEST_URI"]; ?>">
+	<input type="hidden" name="lacands_widget_update" id="lacands_widget_update" value="true" />
+	
+	<div class="lacands_box">
+	
+        <div class="lacands_font_bold14"><img src="http://www.linksalpha.com/images/tools.png" />&nbsp;<?php _e("Widget Options"); ?></div>
+		<div class="lacands_header_border_bottom"></div>
+		
+		<div>
+			<fieldset class="lacands_fieldset">
+				<legend><?php _e("Basics"); ?></legend>
+				
+				<!--Location-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Widget Location"); ?></div>
+					<div>
+						<input type="radio" name="lacands-html-widget-counters-location" id="lacands-html-widget-counters-location-beforeAndafter" value="beforeAndafter" <?php checked('beforeAndafter', $lacands_opt_widget_counters_location); ?> /><label for="lacands-html-widget-counters-location-beforeAndafter">&nbsp;<?php _e("Show at Top and Bottom (default)"); ?></label>
+					</div>
+					<div>
+						<input type="radio" name="lacands-html-widget-counters-location" id="lacands-html-widget-counters-location-before" value="before" <?php checked('before', $lacands_opt_widget_counters_location); ?> /><label for="lacands-html-widget-counters-location-before">&nbsp;<?php _e("Show at Top only"); ?></label>
+					</div>
+					<div>
+						<input type="radio" name="lacands-html-widget-counters-location" id="lacands-html-widget-counters-location-after" value="after"  <?php checked('after',  $lacands_opt_widget_counters_location); ?> /><label for="lacands-html-widget-counters-location-after">&nbsp;<?php _e("Show at Bottom only"); ?></label>
+					</div>
+				</div>
+	
+				<!--Wordpress Pages-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Select pages on which widget should show:"); ?></div>
+					<div>
+						<input name="lacands-html-display-page-home"    	id="lacands-html-display-page-home"    	type="checkbox"<?php if($lacands_display_pages['home'] == "1") echo 'checked="checked"'; ?>    	value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-home"><?php _e("Home page"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-display-page-archive" 	id="lacands-html-display-page-archive" 	type="checkbox"<?php if($lacands_display_pages['archive'] == "1") echo 'checked="checked"'; ?> 	value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-archive"><?php _e("Archives page"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-display-page-date" 		id="lacands-html-display-page-date" 	type="checkbox"<?php if($lacands_display_pages['date'] == "1") echo 'checked="checked"'; ?> 	value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-date"><?php _e("Date archive pages"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-display-page-category" 	id="lacands-html-display-page-category" type="checkbox"<?php if($lacands_display_pages['category'] == "1") echo 'checked="checked"'; ?> value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-category"><?php _e("Category archive pages"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-display-page-tag" 		id="lacands-html-display-page-tag" 		type="checkbox"<?php if($lacands_display_pages['tag'] == "1") echo 'checked="checked"'; ?> 		value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-tag"><?php _e("Tag archive pages"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-display-page-author" 		id="lacands-html-display-page-author" 	type="checkbox"<?php if($lacands_display_pages['author'] == "1") echo 'checked="checked"'; ?> 	value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-author"><?php _e("Author pages"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-display-page-page" 		id="lacands-html-display-page-page" 	type="checkbox"<?php if($lacands_display_pages['page'] == "1") echo 'checked="checked"'; ?> 	value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-page"><?php _e("Pages"); ?></label>
+					</div>
+                    <div>
+						<input name="lacands-html-display-page-search" 		id="lacands-html-display-page-search" 	type="checkbox"<?php if($lacands_display_pages['search'] == "1") echo 'checked="checked"'; ?> 	value="1" />&nbsp;&nbsp;
+						<label for="lacands-html-display-page-page"><?php _e("Search Results"); ?></label>
+					</div>
+				</div>		
+				
+				<!--Padding-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Widget Relative Position"); ?></div>
+					<div>
+						<input name="lacands-html-widget-margin-top" id="lacands-html-widget-margin-top" type="text" size="3" value="<?php echo $lacands_opt_widget_margin_top; ?>" ></input>
+						<label for="lacands-html-widget-margin-top"><?php _e("Top"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-widget-margin-right" id="lacands-html-widget-margin-right" type="text" size="3" value="<?php echo $lacands_opt_widget_margin_right; ?>" ></input>
+						<label for="lacands-html-widget-margin-right"><?php _e("Right"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-widget-margin-bottom" id="lacands-html-widget-margin-bottom" type="text" size="3" value="<?php echo $lacands_opt_widget_margin_bottom; ?>" ></input>
+						<label for="lacands-html-widget-margin-bottom" ><?php _e("Bottom"); ?></label>
+					</div>
+					<div>
+						<input name="lacands-html-widget-margin-left" id="lacands-html-widget-margin-left" type="text" size="3" value="<?php echo $lacands_opt_widget_margin_left; ?>" ></input>
+						<label for="lacands-html-widget-margin-left"><?php _e("Left"); ?></label>
+					</div>
+				</div>
+	
+				<!--Font color-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Colors for Counters shown next to Retweet and Share buttons (not applicable to"); ?>&nbsp;Facebook&nbsp;<?php _e("Like button)"); ?>:</div> 
+					<div>
+						<input name="lacands-html-cntr-font-color" id="lacands-html-cntr-font-color" type="text" size="15" value="<?php echo $lacands_opt_cntr_font_color; ?>" ></input><label for="lacands-html-cntr-font-color">(<?php _e("default"); ?>: 333333)</label>
+					</div>
+				</div>								
+				
+				<!--Font style-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Font Style for buttons:"); ?></div>
+					<select name="lacands-html-widget-font-style">
+						<option <?php if($lacands_opt_widget_font_style == 'arial') echo "selected"; ?> value="arial">arial</option>
+						<option <?php if($lacands_opt_widget_font_style == 'lucida grande') echo "selected"; ?> value="lucida grande">lucida grande</option>
+						<option <?php if($lacands_opt_widget_font_style == 'segoe ui') echo "selected"; ?> value="segoe ui">segoe ui</option>
+						<option <?php if($lacands_opt_widget_font_style == 'tahoma') echo "selected"; ?> value="tahoma">tahoma</option>
+						<option <?php if($lacands_opt_widget_font_style == 'trebuchet ms') echo "selected"; ?> value="trebuchet ms">trebuchet ms</option>
+						<option <?php if($lacands_opt_widget_font_style == 'verdana') echo "selected"; ?> value="verdana">verdana</option>						
+					</select>
+				</div>
+                
+                <!--Show/Hide on Password protected posts-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Show/Hide on Password Protected and Private Posts"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-display-password-protected">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_display_password_protected == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+                
+                <!--Show/Hide on given post_ids-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Show/Hide on following Post Ids"); ?>:</div>
+                    <div>
+                        <label for="lacands-html-widget-display-not-postids"><?php _e("Enter comma separated"); ?> <a href="http://help.linksalpha.com/1-click-retweet-share-like/wordpress-post-id" target="_blank"><?php _e("WordPress Post ids"); ?></a></label>
+                    </div>
+					<div>
+						<textarea name="lacands-html-widget-display-not-postids"><?php if($lacands_opt_widget_display_not_postids) {echo $lacands_opt_widget_display_not_postids;} ?></textarea>
+					</div>
+				</div>
+				
+			</fieldset>
+			
+			<!--Facebook Like -->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/facebook_icon.png" style="vertical-align:bottom;" />&nbsp;Facebook Like</legend>
+				
+				<!--Facebook Like Button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<select name="lacands-html-widget-fb-like-show">
+						<?php
+							$options = array('1'=>LACANDS_SHOW, '0'=>LACANDS_DONT_SHOW);
+							foreach($options as $key=>$val) {
+								if($lacands_opt_widget_fb_like_show == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+				<!--Facebook Like button text-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button text"); ?>:</div>
+					<select name="lacands-html-widget-fb-like">
+						<option <?php if($lacands_opt_widget_fb_like == 'like') echo "selected"; ?> value="like"><?php _e("Like"); ?></option>
+						<option <?php if($lacands_opt_widget_fb_like == 'recommend') echo "selected"; ?> value="recommend"><?php _e("Recommend"); ?></option>
+					</select>
+				</div>
+				
+				<!--Facebook Like button ref-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button referral tracking label"); ?>:</div> 
+					<div>
+						<input name="lacands-html-widget-fb-ref" id="lacands-html-widget-fb-ref" type="text" size="15" value="<?php echo $lacands_opt_widget_fb_ref; ?>" ></input>
+						<label for="lacands-html-widget-fb-ref"><?php _e("Max 50 characters and can contain alphanumeric characters and some punctuation (currently +/=-.:_)"); ?></label>
+					</div>
+				</div>
+				
+				<!--Facebook Like button lang-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button language"); ?>:</div>
+					<select name="lacands-html-widget-fb-like-lang">
+						<?php
+							$langs = lacands_la_langs();
+							asort($langs);
+							foreach($langs as $key=>$val) {
+								if($lacands_opt_widget_fb_like_lang == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+				<!--Facebook App ID-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Facebook App ID"); ?>:</div>
+					<div>
+						<input name="lacands-html-fb-app-id" id="lacands-html-fb-app-id" type="text" size="15" value="<?php echo $lacands_opt_fb_app_id ?>" ></input>
+						<label for="lacands-html-fb-app-id"><?php _e("Facebook Platform application ID (this option is only for advanced users)"); ?></label>
+					</div>
+				</div>
+				
+				<!--Facebook Show/Hide Meta tags-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Facebook OpenGraphs Tags"); ?>:</div>
+					<div>
+					    <input name="lacands-html-fb-metatags" id="lacands-html-fb-metatags" type="checkbox" <?php if($lacands_opt_fb_metatags != 0) echo 'checked="checked"'; ?> value="1" />
+	                    <label for="lacands-html-fb-metatags">&nbsp;&nbsp;<?php _e("Check this box if you want Facebook OpenGraph metatags to be added to your pages. Please don't disable this option unless you are using an alternate way to show the metatags in your pages. Without these metatags, publishing of your content to Facebook will be impacted."); ?></label>
+	                </div>
+                </div>
+				
+			</fieldset>
+			
+			<!--Facebook Share -->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/facebook_icon.png" style="vertical-align:bottom;" />&nbsp;Facebook Share</legend>
+				
+				<!--Faebook Share Button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-fb-share-button">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_fb_share_button == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--Facebook Share button lang-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button language"); ?>:</div>
+					<select name="lacands-html-widget-fb-share-lang">
+						<?php
+							$langs = lacands_fbs_langs();
+							asort($langs);
+							foreach($langs as $key=>$val) {
+								if($lacands_opt_widget_fb_share_lang == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+				<!--Facebook Share Count-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Share Count Show/Hide"); ?>:</div>
+					<select name="lacands-html-widget-fb-share-counter">
+						<?php
+							$options = array('1'=>LACANDS_SHOW, '0'=>LACANDS_DONT_SHOW);
+							foreach($options as $key=>$val) {
+								if($lacands_opt_widget_fb_share_counter == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+			</fieldset>
+			
+			<!--Twitter-->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/twitter_icon.png" style="vertical-align:bottom;" />&nbsp;Twitter</legend>
+				
+				<!--Twitter Button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-twitter-button">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_twitter_button == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--Twitter button mention-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("@mention"); ?>&nbsp;Twitter&nbsp;<?php _e("handle to be used in Tweets"); ?>:</div> 
+					<div>
+						<label for="lacands-html-widget-twitter-mention">Twitter&nbsp;<?php _e("username"); ?>:</label>
+						<input name="lacands-html-widget-twitter-mention" id="lacands-html-widget-twitter-mention" type="text" size="15" value="<?php echo $lacands_opt_widget_twitter_mention; ?>" ></input>
+					</div>
+				</div>
+	
+				<!--Twitter button related-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Recommended"); ?>&nbsp;Twitter&nbsp;<?php _e("accounts for users to follow after they share content from your website"); ?>:</div>
+					<div>
+						<label for="lacands-html-widget-twitter-related1">Twitter&nbsp;<?php _e("usernames"); ?>:</label>
+						<input name="lacands-html-widget-twitter-related1" id="lacands-html-widget-twitter-related1" type="text" size="15" value="<?php echo $lacands_opt_widget_twitter_related1; ?>" ></input>
+						<input name="lacands-html-widget-twitter-related2" type="text" size="15" value="<?php echo $lacands_opt_widget_twitter_related2; ?>" ></input>
+					</div>
+				</div>
+				
+				<!--Twitter button lang-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button language"); ?>:</div>
+					<select name="lacands-html-widget-twitter-lang">
+						<?php
+							$langs = lacands_twitter_langs();
+							asort($langs);
+							foreach($langs as $key=>$val) {
+								if($lacands_opt_widget_twitter_lang == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+				<!--Twitter Retweet Count-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Retweet Count Show/Hide"); ?>:</div>
+					<select name="lacands-html-widget-twitter-counter">
+						<?php
+							$options = array('1'=>LACANDS_SHOW, '0'=>LACANDS_DONT_SHOW);
+							foreach($options as $key=>$val) {
+								if($lacands_opt_widget_twitter_counter == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+			</fieldset>
+			
+			<!--Linkedin-->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/linkedin_icon.png" style="vertical-align:bottom;" />&nbsp;LinkedIn</legend>
+				
+				<!--LinkedIn button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-linkedin-button">
+							<?php
+								$options = array('show'=>LACANDS_SHOW, 'noshow'=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_linkedin_button == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--LinkedIn Counter-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Share Count Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-linkedin-counter">
+							<?php
+								$options = array('1'=>LACANDS_SHOW, '0'=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_linkedin_counter == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+			</fieldset>
+			
+			<!--Google +1-->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/googleplus_icon_24.png" style="vertical-align:middle;" />&nbsp;Google +1</legend>
+				
+				<!--Google +1 Button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-g1-button">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_g1_button == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--Google +1 Button lang-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button language"); ?>:</div>
+					<select name="lacands-html-widget-g1-lang">
+						<?php
+							$langs = lacands_googleplus_langs();
+							asort($langs);
+							foreach($langs as $key=>$val) {
+								if($lacands_opt_widget_g1_lang == $key) {
+									echo '<option value="'.htmlentities($key).'" selected>'.htmlentities($val).'</option>';
+								} else{
+									echo '<option value="'.htmlentities($key).'">'.htmlentities($val).'</option>';
+								}
+							}
+						?>
+					</select>
+				</div>
+				
+				<!--Google +1 Counter-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Share Count Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-g1-counter">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_g1_counter == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--GooglePlus Page Type-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Page Type"); ?>:</div>
+					<div>
+						<select name="lacands-html-googleplus-page-type">
+							<?php
+								$options = array('Article'=>__('Article'), 'Blog'=>__('Blog'), 'Book'=>__('Book'), 'Event'=>__('Event'), 'LocalBusiness'=>__('Local Business'), 'Organization'=>__('Organization'), 'Person'=>__('Person'), 'Product'=>__('Product'), 'Review'=>__('Review'));
+								foreach($options as $key=>$val) {
+									if($$lacands_opt_googleplus_page_type == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--GooglePlus Show/Hide Meta tags-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Google Plus Tags"); ?>:</div>
+					<div>
+					    <input name="lacands-html-googleplus-metatags" id="lacands-html-googleplus-metatags" type="checkbox" <?php if($lacands_opt_googleplus_metatags != 0) echo 'checked="checked"'; ?> value="1" />
+	                    <label for="lacands-html-googleplus-metatags">&nbsp;&nbsp;<?php _e("Check this box if you want Google Plus metatags to be added to your pages. Please don't disable this option unless you are using an alternate way to show the metatags in your pages. Without these metatags, publishing of your content to Google Plus will be impacted."); ?></label>
+	                </div>
+                </div>
+                
+			</fieldset>
+			
+			<!--Digg-->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/digg_icon.png" style="vertical-align:bottom;" />&nbsp;Digg.com</legend>
+				
+				<!--Digg Button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-digg-button">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_digg_button == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--Digg Counter-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers">Digg&nbsp;<?php _e("Count Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-digg-counter">
+							<?php
+								$options = array('1'=>LACANDS_SHOW, '0'=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_digg_counter == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+			</fieldset>
+			
+			<!--StumbleUpon-->
+			<fieldset class="lacands_fieldset">
+				<legend><img src="<?php echo lacands_get_plugin_dir(); ?>/stumbleupon_icon.png" style="vertical-align:bottom;" />&nbsp;StumbleUpon</legend>
+				
+				<!--StumbleUpon Button-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Button Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-stumble-button">
+							<?php
+								$options = array(1=>LACANDS_SHOW, 0=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_stumble_button == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+				
+				<!--StumbleUpon Counter-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Stumble Count Show/Hide"); ?>:</div>
+					<div>
+						<select name="lacands-html-widget-stumble-counter">
+							<?php
+								$options = array('1'=>LACANDS_SHOW, '0'=>LACANDS_DONT_SHOW);
+								foreach($options as $key=>$val) {
+									if($lacands_opt_widget_stumble_counter == $key) {
+										echo '<option value="'.$key.'" selected>'.htmlentities($val).'</option>';
+									} else{
+										echo '<option value="'.$key.'">'.htmlentities($val).'</option>';
+									}
+								}
+							?>
+						</select>
+					</div>
+				</div>
+			</fieldset>
+			
+            <!--Mobile-->
+            <fieldset class="lacands_fieldset">
+                <legend><img style="vertical-align:text-bottom;" src="<?php echo LACANDS_PLUGIN_URL; ?>mobile-phone.png" />&nbsp;<?php _e("Show/Hide on Mobile Devices"); ?></legend>
+                <div class="lacands_input_header">
+                    <input name="lacands-html-widget-mobile-hide" id="lacands-html-widget-mobile-hide" type="checkbox"<?php if($lacands_opt_widget_mobile_hide != "0") echo 'checked="checked"'; ?> value="1" />
+                    <label for="lacands-html-widget-mobile-hide">&nbsp;&nbsp;<?php _e("Check this box to hide the plugin on mobile and tablet devices."); ?></label>
+                </div>
+            </fieldset>
+			
+            <!--Misc-->
+			<fieldset class="lacands_fieldset">
+				<legend><?php _e("Misc"); ?></legend>
+				
+				<!--Disable-->
+				<div class="lacands_input_header">
+					<div class="lacands_input_headers"><?php _e("Select checkbox for Manual option (this will disable the widgets)"); ?>:</div>
+					<div>
+						<input name="lacands-html-widget-disable-cntr-display" id="lacands-html-widget-disable-cntr-display" type="checkbox"<?php if($lacands_widget_disable_cntr_display != "0") echo 'checked="checked"'; ?> value="1" />
+						<label for="lacands-html-widget-disable-cntr-display"><?php _e("Disable displaying"); ?>&nbsp;<?php echo LAECHONW_WIDGET_NAME; ?>&nbsp;(<?php _e("for Manual Option Only - see "); ?>readme.txt)</label>
+					</div>
+					<div style="padding-top:3px;">
+						<?php _e("Place the code"); ?>&nbsp;<?php highlight_string("<?php lacands_wp_filter_content_widget(); ?>");?>&nbsp;<?php _e("in one of the files single.php or index.php (note: or any other file - as the file name depends on the theme you are using). These files can be found under directory ...\wordpress\wp-content\themes\\"); ?>
+					</div>
+				</div>
+			</fieldset>
+								
+			<table class="lacands_add_key_submit_2">
+	            <tr>
+	                <td class="lacands_add_key_submit_button">
+	                    <input type="submit" name="option_value" class="button-primary" value="<?php _e( 'Save Changes' ); ?>" />
+	                </td>
+	                <td class="lacands_add_key_submit_social">
+	                	<div class="lacands_add_key_submit_social_helper">Share the Plugin:</div>
+	                	<div class="lacands_add_key_submit_social_buttons">
+	                     <div style="margin:0px 0px 0px 0px !important;" id="linksalpha_tag_32587491" class="linksalpha-email-button" data-url="http://www.linksalpha.com" data-text="LinksAlpha - Making Social Easy" data-desc="LinksAlpha provides quick and easy way for companies and users to connect and share on social web. Using LinksAlpha tools, you can integrate Social Media Buttons into your website, Publish your Website Content Automatically to Social Media Sites, and Track Social Media Profiles, all from one place." data-site="http://www.linksalpha.com" data-image="http://www.linksalpha.com/images/LALOGO_s175.png" ></div>
+	                     <script type="text/javascript" src="http://www.linksalpha.com/social/loader?tag_id=linksalpha_tag_32587491&link=http%3A%2F%2Fwww.linksalpha.com&halign=left&fblikeverb=like&fblikeref=linksalpha&fblikefont=arial&v=2&twitterw=110&facebookw=90&googleplus=1&facebook=1&twitter=1&linkedin=1&reddit=1&stumbleupon=1&pinterest=1&identica=1&yammer=1&gmail=1&yahoomail=1&hotmail=1&aolmail=1&mailru=1&email=1&print=1&digg=1&delicious=1&diigo=1&posterous=1&tumblr=1&myspace=1&evernote=1&instapaper=1&readitlater=1&msn=1&livejournal=1&sonico=1&netlog=1&hyves=1&xing=1&vkontakte=1&weibo=1&button=googleplus%2Cfacebook%2Ctwitter&gpluslang=en-US&twitterlang=en&xinglang=en&fblikelang=en_US&twittermention=vivekpuri&twitterrelated1=linksalpha&twitterhash=linksalpha&twitterrelated=linksalpha&counters=googleplus%2Cfacebook%2Ctwitter%2Clinkedin"></script>
+	                 </div>
+	                </td>
+	            </tr>
+            </table>
+		</div>			
+	</div>
+</form>
+
+<div class="lacands_box_white">			
+	<div class="lacands_font_bold14"><?php _e("Extra Parameters"); ?></div>
+	<div class="lacands_header_border_bottom"></div>
+	<div style="padding-left:20px;">
+		<form method="post" action="<?php echo $_SERVER["REQUEST_URI"]; ?>">
+			<input type="hidden" name="extra_params" id="extra_params" value="true" />
+			<div style="margin:10px 10px 10px 0px; font-size:13px;">
+				<div>
+					<input name="lacands-html-extra-params" id="lacands-html-extra-params" type="text" value="<?php echo $lacands_opt_extra_params; ?>" /><label for="lacands-html-extra-params">&nbsp;&nbsp;<?php _e("Add any extra parameters that you might have been provided by LinksAlpha.com Support."); ?></label>
+				</div>
+				<div style="padding-top:10px;">
+					<input type="submit" name="option_value" class="button-primary" value="<?php _e( 'Save Changes' ); ?>" />
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+
+<div class="lacands_box_white">			
+	<div class="lacands_font_bold14"><?php _e("Show/Hide Message"); ?></div>
+	<div class="lacands_header_border_bottom"></div>
+	<div style="padding-left:20px;">
+		<form method="post" action="<?php echo $_SERVER["REQUEST_URI"]; ?>">
+			<input type="hidden" name="warning_msg" id="warning_msg" value="true" />
+			<div style="margin:10px 10px 10px 0px; font-size:13px;">
+				<div>
+					<input name="lacandsnw-html-warning-msg" id="lacandsnw-html-warning-msg" type="checkbox"<?php if($lacandsnw_opt_warning_msg != "0") echo 'checked="checked"'; ?> value="1" /><label for="lacandsnw-html-warning-msg">&nbsp;&nbsp;<?php _e("Check this box to hide the message"); ?>:&nbsp;'<?php echo LAECHONW_WIDGET_NAME; ?>&nbsp;<?php _e("plugin is almost ready"); ?>'</label>
+				</div>
+				<div style="padding-top:10px;">
+					<input type="submit" name="option_value" class="button-primary" value="<?php _e( 'Save Warning Msg Change' ); ?>" />
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+		
+<div class="lacands_box_white">			
+	<div class="lacands_font_bold14"><?php _e("Your Suggestions"); ?></div>
+	<div class="lacands_header_border_bottom"></div>
+	<div>Email us at <a href="mailto:post@linksalpha.com">post@linksalpha.com</a> <?php _e("if you would like a particular functionality or have any recommendations"); ?>.</div>
+</div>
+
+<div class="lacands_box_white">			
+	<div class="lacands_font_bold14"><?php _e("Help"); ?></div>								
+	<div class="lacands_header_border_bottom"></div>
+	<div>Checkout the help documents for the plugin by <a href="http://help.linksalpha.com/1-click-retweet-share-like" target="_blank"><?php _e("Clicking Here."); ?></a></div>				
+</div>
